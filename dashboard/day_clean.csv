@@ -1,0 +1,732 @@
+dteday,season,year,month,holiday,one_of_week,weather_situation,temp,atemp,humidity,wind_speed,casual,registered,count_cr,humidity_category,category_days
+2011-01-01,Spring,2011,Jan,No Holiday,Saturday,Misty,0.344167,0.363625,80.58330000000001,0.160446,331,654,985,Terlalu Lembab,weekend
+2011-01-02,Spring,2011,Jan,No Holiday,Sunday,Misty,0.363478,0.353739,69.6087,0.248539,131,670,801,Terlalu Lembab,weekend
+2011-01-03,Spring,2011,Jan,No Holiday,Monday,Clear,0.196364,0.189405,43.7273,0.248309,120,1229,1349,Terlalu kering,weekdays
+2011-01-04,Spring,2011,Jan,No Holiday,Tuesday,Clear,0.2,0.212122,59.0435,0.160296,108,1454,1562,Ideal,weekdays
+2011-01-05,Spring,2011,Jan,No Holiday,Wednesday,Clear,0.226957,0.22927,43.695699999999995,0.1869,82,1518,1600,Terlalu kering,weekdays
+2011-01-06,Spring,2011,Jan,No Holiday,Thursday,Clear,0.204348,0.233209,51.8261,0.0895652,88,1518,1606,Ideal,weekdays
+2011-01-07,Spring,2011,Jan,No Holiday,Friday,Misty,0.196522,0.208839,49.8696,0.168726,148,1362,1510,Ideal,weekdays
+2011-01-08,Spring,2011,Jan,No Holiday,Saturday,Misty,0.165,0.162254,53.5833,0.266804,68,891,959,Ideal,weekend
+2011-01-09,Spring,2011,Jan,No Holiday,Sunday,Clear,0.138333,0.116175,43.416700000000006,0.36195,54,768,822,Terlalu kering,weekend
+2011-01-10,Spring,2011,Jan,No Holiday,Monday,Clear,0.150833,0.150888,48.2917,0.223267,41,1280,1321,Ideal,weekdays
+2011-01-11,Spring,2011,Jan,No Holiday,Tuesday,Misty,0.169091,0.191464,68.6364,0.122132,43,1220,1263,Terlalu Lembab,weekdays
+2011-01-12,Spring,2011,Jan,No Holiday,Wednesday,Clear,0.172727,0.160473,59.954499999999996,0.304627,25,1137,1162,Ideal,weekdays
+2011-01-13,Spring,2011,Jan,No Holiday,Thursday,Clear,0.165,0.150883,47.0417,0.301,38,1368,1406,Ideal,weekdays
+2011-01-14,Spring,2011,Jan,No Holiday,Friday,Clear,0.16087,0.188413,53.7826,0.126548,54,1367,1421,Ideal,weekdays
+2011-01-15,Spring,2011,Jan,No Holiday,Saturday,Misty,0.233333,0.248112,49.875,0.157963,222,1026,1248,Ideal,weekend
+2011-01-16,Spring,2011,Jan,No Holiday,Sunday,Clear,0.231667,0.234217,48.375,0.188433,251,953,1204,Ideal,weekend
+2011-01-17,Spring,2011,Jan,Holiday,Monday,Misty,0.175833,0.176771,53.75,0.194017,117,883,1000,Ideal,weekdays
+2011-01-18,Spring,2011,Jan,No Holiday,Tuesday,Misty,0.216667,0.232333,86.16669999999999,0.146775,9,674,683,Terlalu Lembab,weekdays
+2011-01-19,Spring,2011,Jan,No Holiday,Wednesday,Misty,0.292174,0.298422,74.1739,0.208317,78,1572,1650,Terlalu Lembab,weekdays
+2011-01-20,Spring,2011,Jan,No Holiday,Thursday,Misty,0.261667,0.25505,53.833299999999994,0.195904,83,1844,1927,Ideal,weekdays
+2011-01-21,Spring,2011,Jan,No Holiday,Friday,Clear,0.1775,0.157833,45.7083,0.353242,75,1468,1543,Ideal,weekdays
+2011-01-22,Spring,2011,Jan,No Holiday,Saturday,Clear,0.0591304,0.0790696,40.0,0.17197,93,888,981,Terlalu kering,weekend
+2011-01-23,Spring,2011,Jan,No Holiday,Sunday,Clear,0.0965217,0.0988391,43.6522,0.2466,150,836,986,Terlalu kering,weekend
+2011-01-24,Spring,2011,Jan,No Holiday,Monday,Clear,0.0973913,0.11793,49.173899999999996,0.15833,86,1330,1416,Ideal,weekdays
+2011-01-25,Spring,2011,Jan,No Holiday,Tuesday,Misty,0.223478,0.234526,61.695699999999995,0.129796,186,1799,1985,Ideal,weekdays
+2011-01-26,Spring,2011,Jan,No Holiday,Wednesday,Light_rainsnow,0.2175,0.2036,86.25,0.29385,34,472,506,Terlalu Lembab,weekdays
+2011-01-27,Spring,2011,Jan,No Holiday,Thursday,Clear,0.195,0.2197,68.75,0.113837,15,416,431,Terlalu Lembab,weekdays
+2011-01-28,Spring,2011,Jan,No Holiday,Friday,Misty,0.203478,0.223317,79.30430000000001,0.1233,38,1129,1167,Terlalu Lembab,weekdays
+2011-01-29,Spring,2011,Jan,No Holiday,Saturday,Clear,0.196522,0.212126,65.17389999999999,0.145365,123,975,1098,Terlalu Lembab,weekend
+2011-01-30,Spring,2011,Jan,No Holiday,Sunday,Clear,0.216522,0.250322,72.2174,0.0739826,140,956,1096,Terlalu Lembab,weekend
+2011-01-31,Spring,2011,Jan,No Holiday,Monday,Misty,0.180833,0.18625,60.375,0.187192,42,1459,1501,Ideal,weekdays
+2011-02-01,Spring,2011,Feb,No Holiday,Tuesday,Misty,0.192174,0.23453,82.9565,0.053213,47,1313,1360,Terlalu Lembab,weekdays
+2011-02-02,Spring,2011,Feb,No Holiday,Wednesday,Misty,0.26,0.254417,77.5417,0.264308,72,1454,1526,Terlalu Lembab,weekdays
+2011-02-03,Spring,2011,Feb,No Holiday,Thursday,Clear,0.186957,0.177878,43.7826,0.277752,61,1489,1550,Terlalu kering,weekdays
+2011-02-04,Spring,2011,Feb,No Holiday,Friday,Misty,0.211304,0.228587,58.521699999999996,0.127839,88,1620,1708,Ideal,weekdays
+2011-02-05,Spring,2011,Feb,No Holiday,Saturday,Misty,0.233333,0.243058,92.91669999999999,0.161079,100,905,1005,Terlalu Lembab,weekend
+2011-02-06,Spring,2011,Feb,No Holiday,Sunday,Clear,0.285833,0.291671,56.833299999999994,0.1418,354,1269,1623,Ideal,weekend
+2011-02-07,Spring,2011,Feb,No Holiday,Monday,Clear,0.271667,0.303658,73.83330000000001,0.0454083,120,1592,1712,Terlalu Lembab,weekdays
+2011-02-08,Spring,2011,Feb,No Holiday,Tuesday,Clear,0.220833,0.198246,53.7917,0.36195,64,1466,1530,Ideal,weekdays
+2011-02-09,Spring,2011,Feb,No Holiday,Wednesday,Misty,0.134783,0.144283,49.4783,0.188839,53,1552,1605,Ideal,weekdays
+2011-02-10,Spring,2011,Feb,No Holiday,Thursday,Clear,0.144348,0.149548,43.7391,0.221935,47,1491,1538,Terlalu kering,weekdays
+2011-02-11,Spring,2011,Feb,No Holiday,Friday,Clear,0.189091,0.213509,50.6364,0.10855,149,1597,1746,Ideal,weekdays
+2011-02-12,Spring,2011,Feb,No Holiday,Saturday,Clear,0.2225,0.232954,54.4167,0.203367,288,1184,1472,Ideal,weekend
+2011-02-13,Spring,2011,Feb,No Holiday,Sunday,Clear,0.316522,0.324113,45.7391,0.260883,397,1192,1589,Ideal,weekend
+2011-02-14,Spring,2011,Feb,No Holiday,Monday,Clear,0.415,0.39835,37.583299999999994,0.417908,208,1705,1913,Terlalu kering,weekdays
+2011-02-15,Spring,2011,Feb,No Holiday,Tuesday,Clear,0.266087,0.254274,31.434800000000003,0.291374,140,1675,1815,Terlalu kering,weekdays
+2011-02-16,Spring,2011,Feb,No Holiday,Wednesday,Clear,0.318261,0.3162,42.3478,0.251791,218,1897,2115,Terlalu kering,weekdays
+2011-02-17,Spring,2011,Feb,No Holiday,Thursday,Clear,0.435833,0.428658,50.5,0.230104,259,2216,2475,Ideal,weekdays
+2011-02-18,Spring,2011,Feb,No Holiday,Friday,Clear,0.521667,0.511983,51.6667,0.264925,579,2348,2927,Ideal,weekdays
+2011-02-19,Spring,2011,Feb,No Holiday,Saturday,Clear,0.399167,0.391404,18.7917,0.507463,532,1103,1635,Terlalu kering,weekend
+2011-02-20,Spring,2011,Feb,No Holiday,Sunday,Clear,0.285217,0.27733,40.7826,0.223235,639,1173,1812,Terlalu kering,weekend
+2011-02-21,Spring,2011,Feb,Holiday,Monday,Misty,0.303333,0.284075,60.5,0.307846,195,912,1107,Ideal,weekdays
+2011-02-22,Spring,2011,Feb,No Holiday,Tuesday,Clear,0.182222,0.186033,57.7778,0.195683,74,1376,1450,Ideal,weekdays
+2011-02-23,Spring,2011,Feb,No Holiday,Wednesday,Clear,0.221739,0.245717,42.3043,0.094113,139,1778,1917,Terlalu kering,weekdays
+2011-02-24,Spring,2011,Feb,No Holiday,Thursday,Misty,0.295652,0.289191,69.7391,0.250496,100,1707,1807,Terlalu Lembab,weekdays
+2011-02-25,Spring,2011,Feb,No Holiday,Friday,Misty,0.364348,0.350461,71.2174,0.346539,120,1341,1461,Terlalu Lembab,weekdays
+2011-02-26,Spring,2011,Feb,No Holiday,Saturday,Clear,0.2825,0.282192,53.7917,0.186571,424,1545,1969,Ideal,weekend
+2011-02-27,Spring,2011,Feb,No Holiday,Sunday,Clear,0.343478,0.351109,68.0,0.125248,694,1708,2402,Terlalu Lembab,weekend
+2011-02-28,Spring,2011,Feb,No Holiday,Monday,Misty,0.407273,0.400118,87.63640000000001,0.289686,81,1365,1446,Terlalu Lembab,weekdays
+2011-03-01,Spring,2011,Mar,No Holiday,Tuesday,Clear,0.266667,0.263879,53.5,0.216425,137,1714,1851,Ideal,weekdays
+2011-03-02,Spring,2011,Mar,No Holiday,Wednesday,Clear,0.335,0.320071,44.9583,0.307833,231,1903,2134,Terlalu kering,weekdays
+2011-03-03,Spring,2011,Mar,No Holiday,Thursday,Clear,0.198333,0.200133,31.833299999999998,0.225754,123,1562,1685,Terlalu kering,weekdays
+2011-03-04,Spring,2011,Mar,No Holiday,Friday,Misty,0.261667,0.255679,61.0417,0.203346,214,1730,1944,Ideal,weekdays
+2011-03-05,Spring,2011,Mar,No Holiday,Saturday,Misty,0.384167,0.378779,78.91669999999999,0.251871,640,1437,2077,Terlalu Lembab,weekend
+2011-03-06,Spring,2011,Mar,No Holiday,Sunday,Misty,0.376522,0.366252,94.8261,0.343287,114,491,605,Terlalu Lembab,weekend
+2011-03-07,Spring,2011,Mar,No Holiday,Monday,Clear,0.261739,0.238461,55.1304,0.341352,244,1628,1872,Ideal,weekdays
+2011-03-08,Spring,2011,Mar,No Holiday,Tuesday,Clear,0.2925,0.3024,42.0833,0.12065,316,1817,2133,Terlalu kering,weekdays
+2011-03-09,Spring,2011,Mar,No Holiday,Wednesday,Misty,0.295833,0.286608,77.5417,0.22015,191,1700,1891,Terlalu Lembab,weekdays
+2011-03-10,Spring,2011,Mar,No Holiday,Thursday,Light_rainsnow,0.389091,0.385668,0.0,0.261877,46,577,623,Terlalu kering,weekdays
+2011-03-11,Spring,2011,Mar,No Holiday,Friday,Misty,0.316522,0.305,64.95649999999999,0.23297,247,1730,1977,Ideal,weekdays
+2011-03-12,Spring,2011,Mar,No Holiday,Saturday,Clear,0.329167,0.32575,59.458299999999994,0.220775,724,1408,2132,Ideal,weekend
+2011-03-13,Spring,2011,Mar,No Holiday,Sunday,Clear,0.384348,0.380091,52.73910000000001,0.270604,982,1435,2417,Ideal,weekend
+2011-03-14,Spring,2011,Mar,No Holiday,Monday,Clear,0.325217,0.332,49.695699999999995,0.136926,359,1687,2046,Ideal,weekdays
+2011-03-15,Spring,2011,Mar,No Holiday,Tuesday,Misty,0.317391,0.318178,65.5652,0.184309,289,1767,2056,Terlalu Lembab,weekdays
+2011-03-16,Spring,2011,Mar,No Holiday,Wednesday,Misty,0.365217,0.36693,77.65220000000001,0.203117,321,1871,2192,Terlalu Lembab,weekdays
+2011-03-17,Spring,2011,Mar,No Holiday,Thursday,Clear,0.415,0.410333,60.291700000000006,0.209579,424,2320,2744,Ideal,weekdays
+2011-03-18,Spring,2011,Mar,No Holiday,Friday,Clear,0.54,0.527009,52.5217,0.231017,884,2355,3239,Ideal,weekdays
+2011-03-19,Spring,2011,Mar,No Holiday,Saturday,Clear,0.4725,0.466525,37.9167,0.368167,1424,1693,3117,Terlalu kering,weekend
+2011-03-20,Spring,2011,Mar,No Holiday,Sunday,Clear,0.3325,0.32575,47.375,0.207721,1047,1424,2471,Ideal,weekend
+2011-03-21,Summer,2011,Mar,No Holiday,Monday,Misty,0.430435,0.409735,73.73910000000001,0.288783,401,1676,2077,Terlalu Lembab,weekdays
+2011-03-22,Summer,2011,Mar,No Holiday,Tuesday,Clear,0.441667,0.440642,62.4583,0.22575,460,2243,2703,Ideal,weekdays
+2011-03-23,Summer,2011,Mar,No Holiday,Wednesday,Misty,0.346957,0.337939,83.9565,0.234261,203,1918,2121,Terlalu Lembab,weekdays
+2011-03-24,Summer,2011,Mar,No Holiday,Thursday,Misty,0.285,0.270833,80.58330000000001,0.243787,166,1699,1865,Terlalu Lembab,weekdays
+2011-03-25,Summer,2011,Mar,No Holiday,Friday,Clear,0.264167,0.256312,49.5,0.230725,300,1910,2210,Ideal,weekdays
+2011-03-26,Summer,2011,Mar,No Holiday,Saturday,Clear,0.265833,0.257571,39.4167,0.209571,981,1515,2496,Terlalu kering,weekend
+2011-03-27,Summer,2011,Mar,No Holiday,Sunday,Misty,0.253043,0.250339,49.3913,0.1843,472,1221,1693,Ideal,weekend
+2011-03-28,Summer,2011,Mar,No Holiday,Monday,Clear,0.264348,0.257574,30.2174,0.212204,222,1806,2028,Terlalu kering,weekdays
+2011-03-29,Summer,2011,Mar,No Holiday,Tuesday,Clear,0.3025,0.292908,31.4167,0.226996,317,2108,2425,Terlalu kering,weekdays
+2011-03-30,Summer,2011,Mar,No Holiday,Wednesday,Misty,0.3,0.29735,64.6667,0.172888,168,1368,1536,Ideal,weekdays
+2011-03-31,Summer,2011,Mar,No Holiday,Thursday,Light_rainsnow,0.268333,0.257575,91.8333,0.217646,179,1506,1685,Terlalu Lembab,weekdays
+2011-04-01,Summer,2011,Apr,No Holiday,Friday,Misty,0.3,0.283454,68.625,0.258708,307,1920,2227,Terlalu Lembab,weekdays
+2011-04-02,Summer,2011,Apr,No Holiday,Saturday,Misty,0.315,0.315637,65.375,0.197146,898,1354,2252,Terlalu Lembab,weekend
+2011-04-03,Summer,2011,Apr,No Holiday,Sunday,Clear,0.378333,0.378767,48.0,0.182213,1651,1598,3249,Ideal,weekend
+2011-04-04,Summer,2011,Apr,No Holiday,Monday,Clear,0.573333,0.542929,42.625,0.385571,734,2381,3115,Terlalu kering,weekdays
+2011-04-05,Summer,2011,Apr,No Holiday,Tuesday,Misty,0.414167,0.39835,64.2083,0.388067,167,1628,1795,Ideal,weekdays
+2011-04-06,Summer,2011,Apr,No Holiday,Wednesday,Clear,0.390833,0.387608,47.0833,0.263063,413,2395,2808,Ideal,weekdays
+2011-04-07,Summer,2011,Apr,No Holiday,Thursday,Clear,0.4375,0.433696,60.291700000000006,0.162312,571,2570,3141,Ideal,weekdays
+2011-04-08,Summer,2011,Apr,No Holiday,Friday,Misty,0.335833,0.324479,83.625,0.226992,172,1299,1471,Terlalu Lembab,weekdays
+2011-04-09,Summer,2011,Apr,No Holiday,Saturday,Misty,0.3425,0.341529,87.75,0.133083,879,1576,2455,Terlalu Lembab,weekend
+2011-04-10,Summer,2011,Apr,No Holiday,Sunday,Misty,0.426667,0.426737,85.75,0.146767,1188,1707,2895,Terlalu Lembab,weekend
+2011-04-11,Summer,2011,Apr,No Holiday,Monday,Misty,0.595652,0.565217,71.6956,0.324474,855,2493,3348,Terlalu Lembab,weekdays
+2011-04-12,Summer,2011,Apr,No Holiday,Tuesday,Misty,0.5025,0.493054,73.9167,0.274879,257,1777,2034,Terlalu Lembab,weekdays
+2011-04-13,Summer,2011,Apr,No Holiday,Wednesday,Misty,0.4125,0.417283,81.91669999999999,0.250617,209,1953,2162,Terlalu Lembab,weekdays
+2011-04-14,Summer,2011,Apr,No Holiday,Thursday,Clear,0.4675,0.462742,54.041700000000006,0.1107,529,2738,3267,Ideal,weekdays
+2011-04-15,Summer,2011,Apr,Holiday,Friday,Clear,0.446667,0.441913,67.125,0.226375,642,2484,3126,Terlalu Lembab,weekdays
+2011-04-16,Summer,2011,Apr,No Holiday,Saturday,Light_rainsnow,0.430833,0.425492,88.83330000000001,0.340808,121,674,795,Terlalu Lembab,weekend
+2011-04-17,Summer,2011,Apr,No Holiday,Sunday,Clear,0.456667,0.445696,47.9583,0.303496,1558,2186,3744,Ideal,weekend
+2011-04-18,Summer,2011,Apr,No Holiday,Monday,Clear,0.5125,0.503146,54.25,0.163567,669,2760,3429,Ideal,weekdays
+2011-04-19,Summer,2011,Apr,No Holiday,Tuesday,Misty,0.505833,0.489258,66.5833,0.157971,409,2795,3204,Terlalu Lembab,weekdays
+2011-04-20,Summer,2011,Apr,No Holiday,Wednesday,Clear,0.595,0.564392,61.4167,0.241925,613,3331,3944,Ideal,weekdays
+2011-04-21,Summer,2011,Apr,No Holiday,Thursday,Clear,0.459167,0.453892,40.708299999999994,0.325258,745,3444,4189,Terlalu kering,weekdays
+2011-04-22,Summer,2011,Apr,No Holiday,Friday,Misty,0.336667,0.321954,72.9583,0.219521,177,1506,1683,Terlalu Lembab,weekdays
+2011-04-23,Summer,2011,Apr,No Holiday,Saturday,Misty,0.46,0.450121,88.79169999999999,0.230725,1462,2574,4036,Terlalu Lembab,weekend
+2011-04-24,Summer,2011,Apr,No Holiday,Sunday,Misty,0.581667,0.551763,81.08330000000001,0.192175,1710,2481,4191,Terlalu Lembab,weekend
+2011-04-25,Summer,2011,Apr,No Holiday,Monday,Clear,0.606667,0.5745,77.6667,0.185333,773,3300,4073,Terlalu Lembab,weekdays
+2011-04-26,Summer,2011,Apr,No Holiday,Tuesday,Clear,0.631667,0.594083,72.9167,0.3265,678,3722,4400,Terlalu Lembab,weekdays
+2011-04-27,Summer,2011,Apr,No Holiday,Wednesday,Misty,0.62,0.575142,83.54169999999999,0.3122,547,3325,3872,Terlalu Lembab,weekdays
+2011-04-28,Summer,2011,Apr,No Holiday,Thursday,Misty,0.6175,0.578929,70.08330000000001,0.320908,569,3489,4058,Terlalu Lembab,weekdays
+2011-04-29,Summer,2011,Apr,No Holiday,Friday,Clear,0.51,0.497463,45.7083,0.240063,878,3717,4595,Ideal,weekdays
+2011-04-30,Summer,2011,Apr,No Holiday,Saturday,Clear,0.4725,0.464021,50.3333,0.235075,1965,3347,5312,Ideal,weekend
+2011-05-01,Summer,2011,May,No Holiday,Sunday,Misty,0.451667,0.448204,76.2083,0.106354,1138,2213,3351,Terlalu Lembab,weekend
+2011-05-02,Summer,2011,May,No Holiday,Monday,Misty,0.549167,0.532833,73.0,0.183454,847,3554,4401,Terlalu Lembab,weekdays
+2011-05-03,Summer,2011,May,No Holiday,Tuesday,Misty,0.616667,0.582079,69.7083,0.342667,603,3848,4451,Terlalu Lembab,weekdays
+2011-05-04,Summer,2011,May,No Holiday,Wednesday,Misty,0.414167,0.40465,73.70830000000001,0.328996,255,2378,2633,Terlalu Lembab,weekdays
+2011-05-05,Summer,2011,May,No Holiday,Thursday,Clear,0.459167,0.441917,44.4167,0.295392,614,3819,4433,Terlalu kering,weekdays
+2011-05-06,Summer,2011,May,No Holiday,Friday,Clear,0.479167,0.474117,59.0,0.228246,894,3714,4608,Ideal,weekdays
+2011-05-07,Summer,2011,May,No Holiday,Saturday,Clear,0.52,0.512621,54.125,0.16045,1612,3102,4714,Ideal,weekend
+2011-05-08,Summer,2011,May,No Holiday,Sunday,Clear,0.528333,0.518933,63.1667,0.0746375,1401,2932,4333,Ideal,weekend
+2011-05-09,Summer,2011,May,No Holiday,Monday,Clear,0.5325,0.525246,58.875,0.176,664,3698,4362,Ideal,weekdays
+2011-05-10,Summer,2011,May,No Holiday,Tuesday,Clear,0.5325,0.522721,48.9167,0.115671,694,4109,4803,Ideal,weekdays
+2011-05-11,Summer,2011,May,No Holiday,Wednesday,Clear,0.5425,0.5284,63.29169999999999,0.120642,550,3632,4182,Ideal,weekdays
+2011-05-12,Summer,2011,May,No Holiday,Thursday,Clear,0.535,0.523363,74.75,0.189667,695,4169,4864,Terlalu Lembab,weekdays
+2011-05-13,Summer,2011,May,No Holiday,Friday,Misty,0.5125,0.4943,86.33330000000001,0.179725,692,3413,4105,Terlalu Lembab,weekdays
+2011-05-14,Summer,2011,May,No Holiday,Saturday,Misty,0.520833,0.500629,92.25,0.13495,902,2507,3409,Terlalu Lembab,weekend
+2011-05-15,Summer,2011,May,No Holiday,Sunday,Misty,0.5625,0.536,86.70830000000001,0.152979,1582,2971,4553,Terlalu Lembab,weekend
+2011-05-16,Summer,2011,May,No Holiday,Monday,Clear,0.5775,0.550512,78.79169999999999,0.126871,773,3185,3958,Terlalu Lembab,weekdays
+2011-05-17,Summer,2011,May,No Holiday,Tuesday,Misty,0.561667,0.538529,83.7917,0.277354,678,3445,4123,Terlalu Lembab,weekdays
+2011-05-18,Summer,2011,May,No Holiday,Wednesday,Misty,0.55,0.527158,87.0,0.201492,536,3319,3855,Terlalu Lembab,weekdays
+2011-05-19,Summer,2011,May,No Holiday,Thursday,Misty,0.530833,0.510742,82.9583,0.108213,735,3840,4575,Terlalu Lembab,weekdays
+2011-05-20,Summer,2011,May,No Holiday,Friday,Clear,0.536667,0.529042,71.9583,0.125013,909,4008,4917,Terlalu Lembab,weekdays
+2011-05-21,Summer,2011,May,No Holiday,Saturday,Clear,0.6025,0.571975,62.6667,0.12065,2258,3547,5805,Ideal,weekend
+2011-05-22,Summer,2011,May,No Holiday,Sunday,Clear,0.604167,0.5745,74.9583,0.148008,1576,3084,4660,Terlalu Lembab,weekend
+2011-05-23,Summer,2011,May,No Holiday,Monday,Misty,0.631667,0.590296,81.0,0.233842,836,3438,4274,Terlalu Lembab,weekdays
+2011-05-24,Summer,2011,May,No Holiday,Tuesday,Misty,0.66,0.604813,74.0833,0.207092,659,3833,4492,Terlalu Lembab,weekdays
+2011-05-25,Summer,2011,May,No Holiday,Wednesday,Clear,0.660833,0.615542,69.625,0.154233,740,4238,4978,Terlalu Lembab,weekdays
+2011-05-26,Summer,2011,May,No Holiday,Thursday,Clear,0.708333,0.654688,67.75,0.199642,758,3919,4677,Terlalu Lembab,weekdays
+2011-05-27,Summer,2011,May,No Holiday,Friday,Clear,0.681667,0.637008,65.375,0.240679,871,3808,4679,Terlalu Lembab,weekdays
+2011-05-28,Summer,2011,May,No Holiday,Saturday,Clear,0.655833,0.612379,72.9583,0.230092,2001,2757,4758,Terlalu Lembab,weekend
+2011-05-29,Summer,2011,May,No Holiday,Sunday,Clear,0.6675,0.61555,81.875,0.213938,2355,2433,4788,Terlalu Lembab,weekend
+2011-05-30,Summer,2011,May,Holiday,Monday,Clear,0.733333,0.671092,68.5,0.131225,1549,2549,4098,Terlalu Lembab,weekdays
+2011-05-31,Summer,2011,May,No Holiday,Tuesday,Clear,0.775,0.725383,63.6667,0.111329,673,3309,3982,Ideal,weekdays
+2011-06-01,Summer,2011,Jun,No Holiday,Wednesday,Misty,0.764167,0.720967,67.7083,0.207092,513,3461,3974,Terlalu Lembab,weekdays
+2011-06-02,Summer,2011,Jun,No Holiday,Thursday,Clear,0.715,0.643942,30.5,0.292287,736,4232,4968,Terlalu kering,weekdays
+2011-06-03,Summer,2011,Jun,No Holiday,Friday,Clear,0.62,0.587133,35.4167,0.253121,898,4414,5312,Terlalu kering,weekdays
+2011-06-04,Summer,2011,Jun,No Holiday,Saturday,Clear,0.635,0.594696,45.625,0.123142,1869,3473,5342,Ideal,weekend
+2011-06-05,Summer,2011,Jun,No Holiday,Sunday,Misty,0.648333,0.616804,65.25,0.138692,1685,3221,4906,Terlalu Lembab,weekend
+2011-06-06,Summer,2011,Jun,No Holiday,Monday,Clear,0.678333,0.621858,60.0,0.121896,673,3875,4548,Ideal,weekdays
+2011-06-07,Summer,2011,Jun,No Holiday,Tuesday,Clear,0.7075,0.65595,59.791700000000006,0.187808,763,4070,4833,Ideal,weekdays
+2011-06-08,Summer,2011,Jun,No Holiday,Wednesday,Clear,0.775833,0.727279,62.20830000000001,0.136817,676,3725,4401,Ideal,weekdays
+2011-06-09,Summer,2011,Jun,No Holiday,Thursday,Misty,0.808333,0.757579,56.833299999999994,0.149883,563,3352,3915,Ideal,weekdays
+2011-06-10,Summer,2011,Jun,No Holiday,Friday,Clear,0.755,0.703292,60.5,0.140554,815,3771,4586,Ideal,weekdays
+2011-06-11,Summer,2011,Jun,No Holiday,Saturday,Clear,0.725,0.678038,65.45830000000001,0.15485,1729,3237,4966,Terlalu Lembab,weekend
+2011-06-12,Summer,2011,Jun,No Holiday,Sunday,Clear,0.6925,0.643325,74.7917,0.163567,1467,2993,4460,Terlalu Lembab,weekend
+2011-06-13,Summer,2011,Jun,No Holiday,Monday,Clear,0.635,0.601654,49.4583,0.30535,863,4157,5020,Ideal,weekdays
+2011-06-14,Summer,2011,Jun,No Holiday,Tuesday,Clear,0.604167,0.591546,50.708299999999994,0.269283,727,4164,4891,Ideal,weekdays
+2011-06-15,Summer,2011,Jun,No Holiday,Wednesday,Clear,0.626667,0.587754,47.1667,0.167912,769,4411,5180,Ideal,weekdays
+2011-06-16,Summer,2011,Jun,No Holiday,Thursday,Misty,0.628333,0.595346,68.8333,0.206471,545,3222,3767,Terlalu Lembab,weekdays
+2011-06-17,Summer,2011,Jun,No Holiday,Friday,Clear,0.649167,0.600383,73.5833,0.143029,863,3981,4844,Terlalu Lembab,weekdays
+2011-06-18,Summer,2011,Jun,No Holiday,Saturday,Clear,0.696667,0.643954,67.0417,0.119408,1807,3312,5119,Terlalu Lembab,weekend
+2011-06-19,Summer,2011,Jun,No Holiday,Sunday,Misty,0.699167,0.645846,66.6667,0.102,1639,3105,4744,Terlalu Lembab,weekend
+2011-06-20,Summer,2011,Jun,No Holiday,Monday,Misty,0.635,0.595346,74.625,0.155475,699,3311,4010,Terlalu Lembab,weekdays
+2011-06-21,Fall,2011,Jun,No Holiday,Tuesday,Misty,0.680833,0.637646,77.0417,0.171025,774,4061,4835,Terlalu Lembab,weekdays
+2011-06-22,Fall,2011,Jun,No Holiday,Wednesday,Clear,0.733333,0.693829,70.75,0.172262,661,3846,4507,Terlalu Lembab,weekdays
+2011-06-23,Fall,2011,Jun,No Holiday,Thursday,Misty,0.728333,0.693833,70.3333,0.238804,746,4044,4790,Terlalu Lembab,weekdays
+2011-06-24,Fall,2011,Jun,No Holiday,Friday,Clear,0.724167,0.656583,57.3333,0.222025,969,4022,4991,Ideal,weekdays
+2011-06-25,Fall,2011,Jun,No Holiday,Saturday,Clear,0.695,0.643313,48.3333,0.209571,1782,3420,5202,Ideal,weekend
+2011-06-26,Fall,2011,Jun,No Holiday,Sunday,Clear,0.68,0.637629,51.3333,0.0945333,1920,3385,5305,Ideal,weekend
+2011-06-27,Fall,2011,Jun,No Holiday,Monday,Misty,0.6825,0.637004,65.8333,0.107588,854,3854,4708,Terlalu Lembab,weekdays
+2011-06-28,Fall,2011,Jun,No Holiday,Tuesday,Clear,0.744167,0.692558,63.416700000000006,0.144283,732,3916,4648,Ideal,weekdays
+2011-06-29,Fall,2011,Jun,No Holiday,Wednesday,Clear,0.728333,0.654688,49.7917,0.261821,848,4377,5225,Ideal,weekdays
+2011-06-30,Fall,2011,Jun,No Holiday,Thursday,Clear,0.696667,0.637008,43.416700000000006,0.185312,1027,4488,5515,Terlalu kering,weekdays
+2011-07-01,Fall,2011,Jul,No Holiday,Friday,Clear,0.7225,0.652162,39.625,0.102608,1246,4116,5362,Terlalu kering,weekdays
+2011-07-02,Fall,2011,Jul,No Holiday,Saturday,Clear,0.738333,0.667308,44.4583,0.115062,2204,2915,5119,Terlalu kering,weekend
+2011-07-03,Fall,2011,Jul,No Holiday,Sunday,Misty,0.716667,0.668575,68.25,0.228858,2282,2367,4649,Terlalu Lembab,weekend
+2011-07-04,Fall,2011,Jul,Holiday,Monday,Misty,0.726667,0.665417,63.7917,0.0814792,3065,2978,6043,Ideal,weekdays
+2011-07-05,Fall,2011,Jul,No Holiday,Tuesday,Clear,0.746667,0.696338,59.0417,0.126258,1031,3634,4665,Ideal,weekdays
+2011-07-06,Fall,2011,Jul,No Holiday,Wednesday,Clear,0.72,0.685633,74.33330000000001,0.149883,784,3845,4629,Terlalu Lembab,weekdays
+2011-07-07,Fall,2011,Jul,No Holiday,Thursday,Clear,0.75,0.686871,65.125,0.1592,754,3838,4592,Terlalu Lembab,weekdays
+2011-07-08,Fall,2011,Jul,No Holiday,Friday,Misty,0.709167,0.670483,75.79169999999999,0.225129,692,3348,4040,Terlalu Lembab,weekdays
+2011-07-09,Fall,2011,Jul,No Holiday,Saturday,Clear,0.733333,0.664158,60.9167,0.167912,1988,3348,5336,Ideal,weekend
+2011-07-10,Fall,2011,Jul,No Holiday,Sunday,Clear,0.7475,0.690025,57.8333,0.183471,1743,3138,4881,Ideal,weekend
+2011-07-11,Fall,2011,Jul,No Holiday,Monday,Clear,0.7625,0.729804,63.5833,0.282337,723,3363,4086,Ideal,weekdays
+2011-07-12,Fall,2011,Jul,No Holiday,Tuesday,Clear,0.794167,0.739275,55.9167,0.200254,662,3596,4258,Ideal,weekdays
+2011-07-13,Fall,2011,Jul,No Holiday,Wednesday,Clear,0.746667,0.689404,63.1667,0.146133,748,3594,4342,Ideal,weekdays
+2011-07-14,Fall,2011,Jul,No Holiday,Thursday,Clear,0.680833,0.635104,47.625,0.240667,888,4196,5084,Ideal,weekdays
+2011-07-15,Fall,2011,Jul,No Holiday,Friday,Clear,0.663333,0.624371,59.12500000000001,0.182833,1318,4220,5538,Ideal,weekdays
+2011-07-16,Fall,2011,Jul,No Holiday,Saturday,Clear,0.686667,0.638263,58.5,0.208342,2418,3505,5923,Ideal,weekend
+2011-07-17,Fall,2011,Jul,No Holiday,Sunday,Clear,0.719167,0.669833,60.4167,0.245033,2006,3296,5302,Ideal,weekend
+2011-07-18,Fall,2011,Jul,No Holiday,Monday,Clear,0.746667,0.703925,65.125,0.215804,841,3617,4458,Terlalu Lembab,weekdays
+2011-07-19,Fall,2011,Jul,No Holiday,Tuesday,Clear,0.776667,0.747479,65.0417,0.1306,752,3789,4541,Terlalu Lembab,weekdays
+2011-07-20,Fall,2011,Jul,No Holiday,Wednesday,Clear,0.768333,0.74685,70.70830000000001,0.113817,644,3688,4332,Terlalu Lembab,weekdays
+2011-07-21,Fall,2011,Jul,No Holiday,Thursday,Misty,0.815,0.826371,69.125,0.222021,632,3152,3784,Terlalu Lembab,weekdays
+2011-07-22,Fall,2011,Jul,No Holiday,Friday,Clear,0.848333,0.840896,58.0417,0.1331,562,2825,3387,Ideal,weekdays
+2011-07-23,Fall,2011,Jul,No Holiday,Saturday,Clear,0.849167,0.804287,50.0,0.131221,987,2298,3285,Ideal,weekend
+2011-07-24,Fall,2011,Jul,No Holiday,Sunday,Clear,0.83,0.794829,55.0833,0.169171,1050,2556,3606,Ideal,weekend
+2011-07-25,Fall,2011,Jul,No Holiday,Monday,Clear,0.743333,0.720958,75.7083,0.0908083,568,3272,3840,Terlalu Lembab,weekdays
+2011-07-26,Fall,2011,Jul,No Holiday,Tuesday,Clear,0.771667,0.696979,54.0833,0.200258,750,3840,4590,Ideal,weekdays
+2011-07-27,Fall,2011,Jul,No Holiday,Wednesday,Clear,0.775,0.690667,40.291700000000006,0.183463,755,3901,4656,Terlalu kering,weekdays
+2011-07-28,Fall,2011,Jul,No Holiday,Thursday,Clear,0.779167,0.7399,58.3333,0.178479,606,3784,4390,Ideal,weekdays
+2011-07-29,Fall,2011,Jul,No Holiday,Friday,Clear,0.838333,0.785967,54.25,0.174138,670,3176,3846,Ideal,weekdays
+2011-07-30,Fall,2011,Jul,No Holiday,Saturday,Clear,0.804167,0.728537,46.5833,0.168537,1559,2916,4475,Ideal,weekend
+2011-07-31,Fall,2011,Jul,No Holiday,Sunday,Clear,0.805833,0.729796,48.0833,0.164813,1524,2778,4302,Ideal,weekend
+2011-08-01,Fall,2011,Aug,No Holiday,Monday,Clear,0.771667,0.703292,55.0833,0.156717,729,3537,4266,Ideal,weekdays
+2011-08-02,Fall,2011,Aug,No Holiday,Tuesday,Clear,0.783333,0.707071,49.125,0.20585,801,4044,4845,Ideal,weekdays
+2011-08-03,Fall,2011,Aug,No Holiday,Wednesday,Misty,0.731667,0.679937,65.75,0.135583,467,3107,3574,Terlalu Lembab,weekdays
+2011-08-04,Fall,2011,Aug,No Holiday,Thursday,Misty,0.71,0.664788,75.75,0.19715,799,3777,4576,Terlalu Lembab,weekdays
+2011-08-05,Fall,2011,Aug,No Holiday,Friday,Clear,0.710833,0.656567,63.083299999999994,0.184696,1023,3843,4866,Ideal,weekdays
+2011-08-06,Fall,2011,Aug,No Holiday,Saturday,Misty,0.716667,0.676154,75.5,0.22825,1521,2773,4294,Terlalu Lembab,weekend
+2011-08-07,Fall,2011,Aug,No Holiday,Sunday,Clear,0.7425,0.715292,75.29169999999999,0.201487,1298,2487,3785,Terlalu Lembab,weekend
+2011-08-08,Fall,2011,Aug,No Holiday,Monday,Clear,0.765,0.703283,59.2083,0.192175,846,3480,4326,Ideal,weekdays
+2011-08-09,Fall,2011,Aug,No Holiday,Tuesday,Clear,0.775,0.724121,57.04169999999999,0.151121,907,3695,4602,Ideal,weekdays
+2011-08-10,Fall,2011,Aug,No Holiday,Wednesday,Clear,0.766667,0.684983,42.4167,0.200258,884,3896,4780,Terlalu kering,weekdays
+2011-08-11,Fall,2011,Aug,No Holiday,Thursday,Clear,0.7175,0.651521,42.375,0.164796,812,3980,4792,Terlalu kering,weekdays
+2011-08-12,Fall,2011,Aug,No Holiday,Friday,Clear,0.708333,0.654042,41.5,0.125621,1051,3854,4905,Terlalu kering,weekdays
+2011-08-13,Fall,2011,Aug,No Holiday,Saturday,Misty,0.685833,0.645858,72.9583,0.211454,1504,2646,4150,Terlalu Lembab,weekend
+2011-08-14,Fall,2011,Aug,No Holiday,Sunday,Misty,0.676667,0.624388,81.75,0.222633,1338,2482,3820,Terlalu Lembab,weekend
+2011-08-15,Fall,2011,Aug,No Holiday,Monday,Clear,0.665833,0.616167,71.20830000000001,0.208954,775,3563,4338,Terlalu Lembab,weekdays
+2011-08-16,Fall,2011,Aug,No Holiday,Tuesday,Clear,0.700833,0.645837,57.8333,0.236329,721,4004,4725,Ideal,weekdays
+2011-08-17,Fall,2011,Aug,No Holiday,Wednesday,Clear,0.723333,0.666671,57.5417,0.143667,668,4026,4694,Ideal,weekdays
+2011-08-18,Fall,2011,Aug,No Holiday,Thursday,Clear,0.711667,0.662258,65.45830000000001,0.233208,639,3166,3805,Terlalu Lembab,weekdays
+2011-08-19,Fall,2011,Aug,No Holiday,Friday,Misty,0.685,0.633221,72.2917,0.139308,797,3356,4153,Terlalu Lembab,weekdays
+2011-08-20,Fall,2011,Aug,No Holiday,Saturday,Clear,0.6975,0.648996,67.41669999999999,0.104467,1914,3277,5191,Terlalu Lembab,weekend
+2011-08-21,Fall,2011,Aug,No Holiday,Sunday,Clear,0.710833,0.675525,77.0,0.248754,1249,2624,3873,Terlalu Lembab,weekend
+2011-08-22,Fall,2011,Aug,No Holiday,Monday,Clear,0.691667,0.638254,47.0,0.27675,833,3925,4758,Ideal,weekdays
+2011-08-23,Fall,2011,Aug,No Holiday,Tuesday,Clear,0.640833,0.606067,45.5417,0.146763,1281,4614,5895,Ideal,weekdays
+2011-08-24,Fall,2011,Aug,No Holiday,Wednesday,Clear,0.673333,0.630692,60.5,0.253108,949,4181,5130,Ideal,weekdays
+2011-08-25,Fall,2011,Aug,No Holiday,Thursday,Misty,0.684167,0.645854,77.1667,0.210833,435,3107,3542,Terlalu Lembab,weekdays
+2011-08-26,Fall,2011,Aug,No Holiday,Friday,Clear,0.7,0.659733,76.125,0.0839625,768,3893,4661,Terlalu Lembab,weekdays
+2011-08-27,Fall,2011,Aug,No Holiday,Saturday,Misty,0.68,0.635556,85.0,0.375617,226,889,1115,Terlalu Lembab,weekend
+2011-08-28,Fall,2011,Aug,No Holiday,Sunday,Clear,0.707059,0.647959,56.1765,0.304659,1415,2919,4334,Ideal,weekend
+2011-08-29,Fall,2011,Aug,No Holiday,Monday,Clear,0.636667,0.607958,55.45830000000001,0.159825,729,3905,4634,Ideal,weekdays
+2011-08-30,Fall,2011,Aug,No Holiday,Tuesday,Clear,0.639167,0.594704,54.833299999999994,0.125008,775,4429,5204,Ideal,weekdays
+2011-08-31,Fall,2011,Aug,No Holiday,Wednesday,Clear,0.656667,0.611121,59.791700000000006,0.0833333,688,4370,5058,Ideal,weekdays
+2011-09-01,Fall,2011,Sep,No Holiday,Thursday,Clear,0.655,0.614921,63.916700000000006,0.141796,783,4332,5115,Ideal,weekdays
+2011-09-02,Fall,2011,Sep,No Holiday,Friday,Misty,0.643333,0.604808,72.70830000000001,0.139929,875,3852,4727,Terlalu Lembab,weekdays
+2011-09-03,Fall,2011,Sep,No Holiday,Saturday,Clear,0.669167,0.633213,71.6667,0.185325,1935,2549,4484,Terlalu Lembab,weekend
+2011-09-04,Fall,2011,Sep,No Holiday,Sunday,Clear,0.709167,0.665429,74.20830000000001,0.206467,2521,2419,4940,Terlalu Lembab,weekend
+2011-09-05,Fall,2011,Sep,Holiday,Monday,Misty,0.673333,0.625646,79.0417,0.212696,1236,2115,3351,Terlalu Lembab,weekdays
+2011-09-06,Fall,2011,Sep,No Holiday,Tuesday,Light_rainsnow,0.54,0.5152,88.6957,0.343943,204,2506,2710,Terlalu Lembab,weekdays
+2011-09-07,Fall,2011,Sep,No Holiday,Wednesday,Light_rainsnow,0.599167,0.544229,91.7083,0.0970208,118,1878,1996,Terlalu Lembab,weekdays
+2011-09-08,Fall,2011,Sep,No Holiday,Thursday,Light_rainsnow,0.633913,0.555361,93.9565,0.192748,153,1689,1842,Terlalu Lembab,weekdays
+2011-09-09,Fall,2011,Sep,No Holiday,Friday,Misty,0.65,0.578946,89.79169999999999,0.124379,417,3127,3544,Terlalu Lembab,weekdays
+2011-09-10,Fall,2011,Sep,No Holiday,Saturday,Clear,0.66,0.607962,75.375,0.153608,1750,3595,5345,Terlalu Lembab,weekend
+2011-09-11,Fall,2011,Sep,No Holiday,Sunday,Clear,0.653333,0.609229,71.375,0.115054,1633,3413,5046,Terlalu Lembab,weekend
+2011-09-12,Fall,2011,Sep,No Holiday,Monday,Clear,0.644348,0.60213,69.2174,0.088913,690,4023,4713,Terlalu Lembab,weekdays
+2011-09-13,Fall,2011,Sep,No Holiday,Tuesday,Clear,0.650833,0.603554,71.25,0.141804,701,4062,4763,Terlalu Lembab,weekdays
+2011-09-14,Fall,2011,Sep,No Holiday,Wednesday,Clear,0.673333,0.6269,69.7083,0.1673,647,4138,4785,Terlalu Lembab,weekdays
+2011-09-15,Fall,2011,Sep,No Holiday,Thursday,Misty,0.5775,0.553671,70.9167,0.271146,428,3231,3659,Terlalu Lembab,weekdays
+2011-09-16,Fall,2011,Sep,No Holiday,Friday,Misty,0.469167,0.461475,59.0417,0.164183,742,4018,4760,Ideal,weekdays
+2011-09-17,Fall,2011,Sep,No Holiday,Saturday,Misty,0.491667,0.478512,71.8333,0.189675,1434,3077,4511,Terlalu Lembab,weekend
+2011-09-18,Fall,2011,Sep,No Holiday,Sunday,Clear,0.5075,0.490537,69.5,0.178483,1353,2921,4274,Terlalu Lembab,weekend
+2011-09-19,Fall,2011,Sep,No Holiday,Monday,Misty,0.549167,0.529675,69.0,0.151742,691,3848,4539,Terlalu Lembab,weekdays
+2011-09-20,Fall,2011,Sep,No Holiday,Tuesday,Misty,0.561667,0.532217,88.125,0.134954,438,3203,3641,Terlalu Lembab,weekdays
+2011-09-21,Fall,2011,Sep,No Holiday,Wednesday,Misty,0.595,0.550533,90.0,0.0964042,539,3813,4352,Terlalu Lembab,weekdays
+2011-09-22,Fall,2011,Sep,No Holiday,Thursday,Misty,0.628333,0.554963,90.2083,0.128125,555,4240,4795,Terlalu Lembab,weekdays
+2011-09-23,Winter,2011,Sep,No Holiday,Friday,Misty,0.609167,0.522125,97.25,0.0783667,258,2137,2395,Terlalu Lembab,weekdays
+2011-09-24,Winter,2011,Sep,No Holiday,Saturday,Misty,0.606667,0.564412,86.25,0.0783833,1776,3647,5423,Terlalu Lembab,weekend
+2011-09-25,Winter,2011,Sep,No Holiday,Sunday,Misty,0.634167,0.572637,84.5,0.0503792,1544,3466,5010,Terlalu Lembab,weekend
+2011-09-26,Winter,2011,Sep,No Holiday,Monday,Misty,0.649167,0.589042,84.8333,0.1107,684,3946,4630,Terlalu Lembab,weekdays
+2011-09-27,Winter,2011,Sep,No Holiday,Tuesday,Misty,0.636667,0.574525,88.5417,0.118171,477,3643,4120,Terlalu Lembab,weekdays
+2011-09-28,Winter,2011,Sep,No Holiday,Wednesday,Misty,0.635,0.575158,84.875,0.148629,480,3427,3907,Terlalu Lembab,weekdays
+2011-09-29,Winter,2011,Sep,No Holiday,Thursday,Clear,0.616667,0.574512,69.91669999999999,0.172883,653,4186,4839,Terlalu Lembab,weekdays
+2011-09-30,Winter,2011,Sep,No Holiday,Friday,Clear,0.564167,0.544829,64.75,0.206475,830,4372,5202,Ideal,weekdays
+2011-10-01,Winter,2011,Oct,No Holiday,Saturday,Misty,0.41,0.412863,75.375,0.292296,480,1949,2429,Terlalu Lembab,weekend
+2011-10-02,Winter,2011,Oct,No Holiday,Sunday,Misty,0.356667,0.345317,79.1667,0.222013,616,2302,2918,Terlalu Lembab,weekend
+2011-10-03,Winter,2011,Oct,No Holiday,Monday,Misty,0.384167,0.392046,76.0833,0.0833458,330,3240,3570,Terlalu Lembab,weekdays
+2011-10-04,Winter,2011,Oct,No Holiday,Tuesday,Clear,0.484167,0.472858,71.0,0.205854,486,3970,4456,Terlalu Lembab,weekdays
+2011-10-05,Winter,2011,Oct,No Holiday,Wednesday,Clear,0.538333,0.527138,64.79169999999999,0.17725,559,4267,4826,Ideal,weekdays
+2011-10-06,Winter,2011,Oct,No Holiday,Thursday,Clear,0.494167,0.480425,62.083299999999994,0.134954,639,4126,4765,Ideal,weekdays
+2011-10-07,Winter,2011,Oct,No Holiday,Friday,Clear,0.510833,0.504404,68.41669999999999,0.0223917,949,4036,4985,Terlalu Lembab,weekdays
+2011-10-08,Winter,2011,Oct,No Holiday,Saturday,Clear,0.521667,0.513242,70.125,0.0454042,2235,3174,5409,Terlalu Lembab,weekend
+2011-10-09,Winter,2011,Oct,No Holiday,Sunday,Clear,0.540833,0.523983,72.75,0.06345,2397,3114,5511,Terlalu Lembab,weekend
+2011-10-10,Winter,2011,Oct,Holiday,Monday,Clear,0.570833,0.542925,73.375,0.0423042,1514,3603,5117,Terlalu Lembab,weekdays
+2011-10-11,Winter,2011,Oct,No Holiday,Tuesday,Misty,0.566667,0.546096,80.875,0.143042,667,3896,4563,Terlalu Lembab,weekdays
+2011-10-12,Winter,2011,Oct,No Holiday,Wednesday,Light_rainsnow,0.543333,0.517717,90.625,0.24815,217,2199,2416,Terlalu Lembab,weekdays
+2011-10-13,Winter,2011,Oct,No Holiday,Thursday,Misty,0.589167,0.551804,89.6667,0.141787,290,2623,2913,Terlalu Lembab,weekdays
+2011-10-14,Winter,2011,Oct,No Holiday,Friday,Misty,0.550833,0.529675,71.625,0.223883,529,3115,3644,Terlalu Lembab,weekdays
+2011-10-15,Winter,2011,Oct,No Holiday,Saturday,Clear,0.506667,0.498725,48.3333,0.258083,1899,3318,5217,Ideal,weekend
+2011-10-16,Winter,2011,Oct,No Holiday,Sunday,Clear,0.511667,0.503154,48.6667,0.281717,1748,3293,5041,Ideal,weekend
+2011-10-17,Winter,2011,Oct,No Holiday,Monday,Clear,0.534167,0.510725,57.958299999999994,0.175379,713,3857,4570,Ideal,weekdays
+2011-10-18,Winter,2011,Oct,No Holiday,Tuesday,Misty,0.5325,0.522721,70.1667,0.110087,637,4111,4748,Terlalu Lembab,weekdays
+2011-10-19,Winter,2011,Oct,No Holiday,Wednesday,Light_rainsnow,0.541739,0.513848,89.52170000000001,0.243339,254,2170,2424,Terlalu Lembab,weekdays
+2011-10-20,Winter,2011,Oct,No Holiday,Thursday,Clear,0.475833,0.466525,63.625,0.422275,471,3724,4195,Ideal,weekdays
+2011-10-21,Winter,2011,Oct,No Holiday,Friday,Clear,0.4275,0.423596,57.4167,0.221396,676,3628,4304,Ideal,weekdays
+2011-10-22,Winter,2011,Oct,No Holiday,Saturday,Clear,0.4225,0.425492,62.916700000000006,0.0926667,1499,2809,4308,Ideal,weekend
+2011-10-23,Winter,2011,Oct,No Holiday,Sunday,Clear,0.421667,0.422333,74.125,0.0995125,1619,2762,4381,Terlalu Lembab,weekend
+2011-10-24,Winter,2011,Oct,No Holiday,Monday,Clear,0.463333,0.457067,77.2083,0.118792,699,3488,4187,Terlalu Lembab,weekdays
+2011-10-25,Winter,2011,Oct,No Holiday,Tuesday,Clear,0.471667,0.463375,62.291700000000006,0.166658,695,3992,4687,Ideal,weekdays
+2011-10-26,Winter,2011,Oct,No Holiday,Wednesday,Misty,0.484167,0.472846,72.04169999999999,0.148642,404,3490,3894,Terlalu Lembab,weekdays
+2011-10-27,Winter,2011,Oct,No Holiday,Thursday,Misty,0.47,0.457046,81.2917,0.197763,240,2419,2659,Terlalu Lembab,weekdays
+2011-10-28,Winter,2011,Oct,No Holiday,Friday,Misty,0.330833,0.318812,58.58330000000001,0.229479,456,3291,3747,Ideal,weekdays
+2011-10-29,Winter,2011,Oct,No Holiday,Saturday,Light_rainsnow,0.254167,0.227913,88.25,0.351371,57,570,627,Terlalu Lembab,weekend
+2011-10-30,Winter,2011,Oct,No Holiday,Sunday,Clear,0.319167,0.321329,62.375,0.176617,885,2446,3331,Ideal,weekend
+2011-10-31,Winter,2011,Oct,No Holiday,Monday,Clear,0.34,0.356063,70.3333,0.10635,362,3307,3669,Terlalu Lembab,weekdays
+2011-11-01,Winter,2011,Nov,No Holiday,Tuesday,Clear,0.400833,0.397088,68.375,0.135571,410,3658,4068,Terlalu Lembab,weekdays
+2011-11-02,Winter,2011,Nov,No Holiday,Wednesday,Clear,0.3775,0.390133,71.875,0.0820917,370,3816,4186,Terlalu Lembab,weekdays
+2011-11-03,Winter,2011,Nov,No Holiday,Thursday,Clear,0.408333,0.405921,70.20830000000001,0.136817,318,3656,3974,Terlalu Lembab,weekdays
+2011-11-04,Winter,2011,Nov,No Holiday,Friday,Misty,0.403333,0.403392,62.25000000000001,0.271779,470,3576,4046,Ideal,weekdays
+2011-11-05,Winter,2011,Nov,No Holiday,Saturday,Clear,0.326667,0.323854,51.916700000000006,0.189062,1156,2770,3926,Ideal,weekend
+2011-11-06,Winter,2011,Nov,No Holiday,Sunday,Clear,0.348333,0.362358,73.4583,0.0920542,952,2697,3649,Terlalu Lembab,weekend
+2011-11-07,Winter,2011,Nov,No Holiday,Monday,Clear,0.395,0.400871,75.875,0.057225,373,3662,4035,Terlalu Lembab,weekdays
+2011-11-08,Winter,2011,Nov,No Holiday,Tuesday,Clear,0.408333,0.412246,72.16669999999999,0.0690375,376,3829,4205,Terlalu Lembab,weekdays
+2011-11-09,Winter,2011,Nov,No Holiday,Wednesday,Clear,0.4,0.409079,75.83330000000001,0.0621958,305,3804,4109,Terlalu Lembab,weekdays
+2011-11-10,Winter,2011,Nov,No Holiday,Thursday,Misty,0.38,0.373721,81.3333,0.189067,190,2743,2933,Terlalu Lembab,weekdays
+2011-11-11,Winter,2011,Nov,Holiday,Friday,Clear,0.324167,0.306817,44.625,0.314675,440,2928,3368,Terlalu kering,weekdays
+2011-11-12,Winter,2011,Nov,No Holiday,Saturday,Clear,0.356667,0.357942,55.2917,0.212062,1275,2792,4067,Ideal,weekend
+2011-11-13,Winter,2011,Nov,No Holiday,Sunday,Clear,0.440833,0.43055,45.8333,0.281721,1004,2713,3717,Ideal,weekend
+2011-11-14,Winter,2011,Nov,No Holiday,Monday,Clear,0.53,0.524612,58.7083,0.306596,595,3891,4486,Ideal,weekdays
+2011-11-15,Winter,2011,Nov,No Holiday,Tuesday,Misty,0.53,0.507579,68.875,0.199633,449,3746,4195,Terlalu Lembab,weekdays
+2011-11-16,Winter,2011,Nov,No Holiday,Wednesday,Light_rainsnow,0.456667,0.451988,93.0,0.136829,145,1672,1817,Terlalu Lembab,weekdays
+2011-11-17,Winter,2011,Nov,No Holiday,Thursday,Misty,0.341667,0.323221,57.5833,0.305362,139,2914,3053,Ideal,weekdays
+2011-11-18,Winter,2011,Nov,No Holiday,Friday,Clear,0.274167,0.272721,41.0,0.168533,245,3147,3392,Terlalu kering,weekdays
+2011-11-19,Winter,2011,Nov,No Holiday,Saturday,Clear,0.329167,0.324483,50.208299999999994,0.224496,943,2720,3663,Ideal,weekend
+2011-11-20,Winter,2011,Nov,No Holiday,Sunday,Misty,0.463333,0.457058,68.45830000000001,0.18595,787,2733,3520,Terlalu Lembab,weekend
+2011-11-21,Winter,2011,Nov,No Holiday,Monday,Light_rainsnow,0.4475,0.445062,91.0,0.138054,220,2545,2765,Terlalu Lembab,weekdays
+2011-11-22,Winter,2011,Nov,No Holiday,Tuesday,Light_rainsnow,0.416667,0.421696,96.25,0.118792,69,1538,1607,Terlalu Lembab,weekdays
+2011-11-23,Winter,2011,Nov,No Holiday,Wednesday,Misty,0.440833,0.430537,75.79169999999999,0.335825,112,2454,2566,Terlalu Lembab,weekdays
+2011-11-24,Winter,2011,Nov,Holiday,Thursday,Clear,0.373333,0.372471,54.9167,0.167304,560,935,1495,Ideal,weekdays
+2011-11-25,Winter,2011,Nov,No Holiday,Friday,Clear,0.375,0.380671,64.375,0.0988958,1095,1697,2792,Ideal,weekdays
+2011-11-26,Winter,2011,Nov,No Holiday,Saturday,Clear,0.375833,0.385087,68.1667,0.0684208,1249,1819,3068,Terlalu Lembab,weekend
+2011-11-27,Winter,2011,Nov,No Holiday,Sunday,Clear,0.459167,0.4558,69.8333,0.208954,810,2261,3071,Terlalu Lembab,weekend
+2011-11-28,Winter,2011,Nov,No Holiday,Monday,Clear,0.503478,0.490122,74.3043,0.142122,253,3614,3867,Terlalu Lembab,weekdays
+2011-11-29,Winter,2011,Nov,No Holiday,Tuesday,Misty,0.458333,0.451375,83.08330000000001,0.258092,96,2818,2914,Terlalu Lembab,weekdays
+2011-11-30,Winter,2011,Nov,No Holiday,Wednesday,Clear,0.325,0.311221,61.3333,0.271158,188,3425,3613,Ideal,weekdays
+2011-12-01,Winter,2011,Dec,No Holiday,Thursday,Clear,0.3125,0.305554,52.4583,0.220158,182,3545,3727,Ideal,weekdays
+2011-12-02,Winter,2011,Dec,No Holiday,Friday,Clear,0.314167,0.331433,62.583299999999994,0.100754,268,3672,3940,Ideal,weekdays
+2011-12-03,Winter,2011,Dec,No Holiday,Saturday,Clear,0.299167,0.310604,61.291700000000006,0.0957833,706,2908,3614,Ideal,weekend
+2011-12-04,Winter,2011,Dec,No Holiday,Sunday,Clear,0.330833,0.3491,77.5833,0.0839583,634,2851,3485,Terlalu Lembab,weekend
+2011-12-05,Winter,2011,Dec,No Holiday,Monday,Misty,0.385833,0.393925,82.70830000000001,0.0622083,233,3578,3811,Terlalu Lembab,weekdays
+2011-12-06,Winter,2011,Dec,No Holiday,Tuesday,Light_rainsnow,0.4625,0.4564,94.9583,0.232583,126,2468,2594,Terlalu Lembab,weekdays
+2011-12-07,Winter,2011,Dec,No Holiday,Wednesday,Light_rainsnow,0.41,0.400246,97.04169999999999,0.266175,50,655,705,Terlalu Lembab,weekdays
+2011-12-08,Winter,2011,Dec,No Holiday,Thursday,Clear,0.265833,0.256938,57.99999999999999,0.240058,150,3172,3322,Ideal,weekdays
+2011-12-09,Winter,2011,Dec,No Holiday,Friday,Clear,0.290833,0.317542,69.58330000000001,0.0827167,261,3359,3620,Terlalu Lembab,weekdays
+2011-12-10,Winter,2011,Dec,No Holiday,Saturday,Clear,0.275,0.266412,50.74999999999999,0.233221,502,2688,3190,Ideal,weekend
+2011-12-11,Winter,2011,Dec,No Holiday,Sunday,Clear,0.220833,0.253154,49.0,0.0665417,377,2366,2743,Ideal,weekend
+2011-12-12,Winter,2011,Dec,No Holiday,Monday,Clear,0.238333,0.270196,67.08330000000001,0.06345,143,3167,3310,Terlalu Lembab,weekdays
+2011-12-13,Winter,2011,Dec,No Holiday,Tuesday,Clear,0.2825,0.301138,59.0,0.14055,155,3368,3523,Ideal,weekdays
+2011-12-14,Winter,2011,Dec,No Holiday,Wednesday,Misty,0.3175,0.338362,66.375,0.0609583,178,3562,3740,Terlalu Lembab,weekdays
+2011-12-15,Winter,2011,Dec,No Holiday,Thursday,Misty,0.4225,0.412237,63.416700000000006,0.268042,181,3528,3709,Ideal,weekdays
+2011-12-16,Winter,2011,Dec,No Holiday,Friday,Misty,0.375,0.359825,50.0417,0.260575,178,3399,3577,Ideal,weekdays
+2011-12-17,Winter,2011,Dec,No Holiday,Saturday,Misty,0.258333,0.249371,56.0833,0.243167,275,2464,2739,Ideal,weekend
+2011-12-18,Winter,2011,Dec,No Holiday,Sunday,Clear,0.238333,0.245579,58.62500000000001,0.169779,220,2211,2431,Ideal,weekend
+2011-12-19,Winter,2011,Dec,No Holiday,Monday,Clear,0.276667,0.280933,63.74999999999999,0.172896,260,3143,3403,Ideal,weekdays
+2011-12-20,Winter,2011,Dec,No Holiday,Tuesday,Misty,0.385833,0.396454,59.5417,0.0615708,216,3534,3750,Ideal,weekdays
+2011-12-21,Spring,2011,Dec,No Holiday,Wednesday,Misty,0.428333,0.428017,85.83330000000001,0.2214,107,2553,2660,Terlalu Lembab,weekdays
+2011-12-22,Spring,2011,Dec,No Holiday,Thursday,Misty,0.423333,0.426121,75.75,0.047275,227,2841,3068,Terlalu Lembab,weekdays
+2011-12-23,Spring,2011,Dec,No Holiday,Friday,Clear,0.373333,0.377513,68.625,0.274246,163,2046,2209,Terlalu Lembab,weekdays
+2011-12-24,Spring,2011,Dec,No Holiday,Saturday,Clear,0.3025,0.299242,54.25,0.190304,155,856,1011,Ideal,weekend
+2011-12-25,Spring,2011,Dec,No Holiday,Sunday,Clear,0.274783,0.279961,68.13040000000001,0.155091,303,451,754,Terlalu Lembab,weekend
+2011-12-26,Spring,2011,Dec,Holiday,Monday,Clear,0.321739,0.315535,50.6957,0.239465,430,887,1317,Ideal,weekdays
+2011-12-27,Spring,2011,Dec,No Holiday,Tuesday,Misty,0.325,0.327633,76.25,0.18845,103,1059,1162,Terlalu Lembab,weekdays
+2011-12-28,Spring,2011,Dec,No Holiday,Wednesday,Clear,0.29913,0.279974,50.39130000000001,0.293961,255,2047,2302,Ideal,weekdays
+2011-12-29,Spring,2011,Dec,No Holiday,Thursday,Clear,0.248333,0.263892,57.4167,0.119412,254,2169,2423,Ideal,weekdays
+2011-12-30,Spring,2011,Dec,No Holiday,Friday,Clear,0.311667,0.318812,63.6667,0.134337,491,2508,2999,Ideal,weekdays
+2011-12-31,Spring,2011,Dec,No Holiday,Saturday,Clear,0.41,0.414121,61.583299999999994,0.220154,665,1820,2485,Ideal,weekend
+2012-01-01,Spring,2012,Jan,No Holiday,Sunday,Clear,0.37,0.375621,69.25,0.192167,686,1608,2294,Terlalu Lembab,weekend
+2012-01-02,Spring,2012,Jan,Holiday,Monday,Clear,0.273043,0.252304,38.130399999999995,0.329665,244,1707,1951,Terlalu kering,weekdays
+2012-01-03,Spring,2012,Jan,No Holiday,Tuesday,Clear,0.15,0.126275,44.125,0.365671,89,2147,2236,Terlalu kering,weekdays
+2012-01-04,Spring,2012,Jan,No Holiday,Wednesday,Misty,0.1075,0.119337,41.4583,0.1847,95,2273,2368,Terlalu kering,weekdays
+2012-01-05,Spring,2012,Jan,No Holiday,Thursday,Clear,0.265833,0.278412,52.416700000000006,0.129987,140,3132,3272,Ideal,weekdays
+2012-01-06,Spring,2012,Jan,No Holiday,Friday,Clear,0.334167,0.340267,54.2083,0.167908,307,3791,4098,Ideal,weekdays
+2012-01-07,Spring,2012,Jan,No Holiday,Saturday,Clear,0.393333,0.390779,53.1667,0.174758,1070,3451,4521,Ideal,weekend
+2012-01-08,Spring,2012,Jan,No Holiday,Sunday,Clear,0.3375,0.340258,46.5,0.191542,599,2826,3425,Ideal,weekend
+2012-01-09,Spring,2012,Jan,No Holiday,Monday,Misty,0.224167,0.247479,70.1667,0.0989,106,2270,2376,Terlalu Lembab,weekdays
+2012-01-10,Spring,2012,Jan,No Holiday,Tuesday,Clear,0.308696,0.318826,64.65220000000001,0.187552,173,3425,3598,Ideal,weekdays
+2012-01-11,Spring,2012,Jan,No Holiday,Wednesday,Misty,0.274167,0.282821,84.75,0.131221,92,2085,2177,Terlalu Lembab,weekdays
+2012-01-12,Spring,2012,Jan,No Holiday,Thursday,Misty,0.3825,0.381938,80.2917,0.180967,269,3828,4097,Terlalu Lembab,weekdays
+2012-01-13,Spring,2012,Jan,No Holiday,Friday,Clear,0.274167,0.249362,50.74999999999999,0.378108,174,3040,3214,Ideal,weekdays
+2012-01-14,Spring,2012,Jan,No Holiday,Saturday,Clear,0.18,0.183087,45.75,0.187183,333,2160,2493,Ideal,weekend
+2012-01-15,Spring,2012,Jan,No Holiday,Sunday,Clear,0.166667,0.161625,41.9167,0.251258,284,2027,2311,Terlalu kering,weekend
+2012-01-16,Spring,2012,Jan,Holiday,Monday,Clear,0.19,0.190663,52.25,0.231358,217,2081,2298,Ideal,weekdays
+2012-01-17,Spring,2012,Jan,No Holiday,Tuesday,Misty,0.373043,0.364278,71.6087,0.34913,127,2808,2935,Terlalu Lembab,weekdays
+2012-01-18,Spring,2012,Jan,No Holiday,Wednesday,Clear,0.303333,0.275254,44.333299999999994,0.415429,109,3267,3376,Terlalu kering,weekdays
+2012-01-19,Spring,2012,Jan,No Holiday,Thursday,Clear,0.19,0.190038,49.75,0.220158,130,3162,3292,Ideal,weekdays
+2012-01-20,Spring,2012,Jan,No Holiday,Friday,Misty,0.2175,0.220958,45.0,0.20275,115,3048,3163,Ideal,weekdays
+2012-01-21,Spring,2012,Jan,No Holiday,Saturday,Misty,0.173333,0.174875,83.125,0.222642,67,1234,1301,Terlalu Lembab,weekend
+2012-01-22,Spring,2012,Jan,No Holiday,Sunday,Misty,0.1625,0.16225,79.625,0.199638,196,1781,1977,Terlalu Lembab,weekend
+2012-01-23,Spring,2012,Jan,No Holiday,Monday,Misty,0.218333,0.243058,91.125,0.110708,145,2287,2432,Terlalu Lembab,weekdays
+2012-01-24,Spring,2012,Jan,No Holiday,Tuesday,Clear,0.3425,0.349108,83.58330000000001,0.123767,439,3900,4339,Terlalu Lembab,weekdays
+2012-01-25,Spring,2012,Jan,No Holiday,Wednesday,Clear,0.294167,0.294821,64.375,0.161071,467,3803,4270,Ideal,weekdays
+2012-01-26,Spring,2012,Jan,No Holiday,Thursday,Misty,0.341667,0.35605,76.95830000000001,0.0733958,244,3831,4075,Terlalu Lembab,weekdays
+2012-01-27,Spring,2012,Jan,No Holiday,Friday,Misty,0.425,0.415383,74.125,0.342667,269,3187,3456,Terlalu Lembab,weekdays
+2012-01-28,Spring,2012,Jan,No Holiday,Saturday,Clear,0.315833,0.326379,54.333299999999994,0.210829,775,3248,4023,Ideal,weekend
+2012-01-29,Spring,2012,Jan,No Holiday,Sunday,Clear,0.2825,0.272721,31.125000000000004,0.24005,558,2685,3243,Terlalu kering,weekend
+2012-01-30,Spring,2012,Jan,No Holiday,Monday,Clear,0.269167,0.262625,40.0833,0.215792,126,3498,3624,Terlalu kering,weekdays
+2012-01-31,Spring,2012,Jan,No Holiday,Tuesday,Clear,0.39,0.381317,41.6667,0.261817,324,4185,4509,Terlalu kering,weekdays
+2012-02-01,Spring,2012,Feb,No Holiday,Wednesday,Clear,0.469167,0.466538,50.79169999999999,0.189067,304,4275,4579,Ideal,weekdays
+2012-02-02,Spring,2012,Feb,No Holiday,Thursday,Misty,0.399167,0.398971,67.29169999999999,0.187187,190,3571,3761,Terlalu Lembab,weekdays
+2012-02-03,Spring,2012,Feb,No Holiday,Friday,Clear,0.313333,0.309346,52.6667,0.178496,310,3841,4151,Ideal,weekdays
+2012-02-04,Spring,2012,Feb,No Holiday,Saturday,Misty,0.264167,0.272725,77.95830000000001,0.121896,384,2448,2832,Terlalu Lembab,weekend
+2012-02-05,Spring,2012,Feb,No Holiday,Sunday,Misty,0.265833,0.264521,68.7917,0.175996,318,2629,2947,Terlalu Lembab,weekend
+2012-02-06,Spring,2012,Feb,No Holiday,Monday,Clear,0.282609,0.296426,62.2174,0.1538,206,3578,3784,Ideal,weekdays
+2012-02-07,Spring,2012,Feb,No Holiday,Tuesday,Clear,0.354167,0.361104,49.625,0.147379,199,4176,4375,Ideal,weekdays
+2012-02-08,Spring,2012,Feb,No Holiday,Wednesday,Misty,0.256667,0.266421,72.2917,0.133721,109,2693,2802,Terlalu Lembab,weekdays
+2012-02-09,Spring,2012,Feb,No Holiday,Thursday,Clear,0.265,0.261988,56.2083,0.194037,163,3667,3830,Ideal,weekdays
+2012-02-10,Spring,2012,Feb,No Holiday,Friday,Misty,0.280833,0.293558,54.0,0.116929,227,3604,3831,Ideal,weekdays
+2012-02-11,Spring,2012,Feb,No Holiday,Saturday,Light_rainsnow,0.224167,0.210867,73.125,0.289796,192,1977,2169,Terlalu Lembab,weekend
+2012-02-12,Spring,2012,Feb,No Holiday,Sunday,Clear,0.1275,0.101658,46.4583,0.409212,73,1456,1529,Ideal,weekend
+2012-02-13,Spring,2012,Feb,No Holiday,Monday,Clear,0.2225,0.227913,41.125,0.167283,94,3328,3422,Terlalu kering,weekdays
+2012-02-14,Spring,2012,Feb,No Holiday,Tuesday,Misty,0.319167,0.333946,50.875,0.141179,135,3787,3922,Ideal,weekdays
+2012-02-15,Spring,2012,Feb,No Holiday,Wednesday,Clear,0.348333,0.351629,53.125,0.1816,141,4028,4169,Ideal,weekdays
+2012-02-16,Spring,2012,Feb,No Holiday,Thursday,Misty,0.316667,0.330162,75.29169999999999,0.091425,74,2931,3005,Terlalu Lembab,weekdays
+2012-02-17,Spring,2012,Feb,No Holiday,Friday,Clear,0.343333,0.351629,63.4583,0.205846,349,3805,4154,Ideal,weekdays
+2012-02-18,Spring,2012,Feb,No Holiday,Saturday,Clear,0.346667,0.355425,53.4583,0.190929,1435,2883,4318,Ideal,weekend
+2012-02-19,Spring,2012,Feb,No Holiday,Sunday,Misty,0.28,0.265788,51.5833,0.253112,618,2071,2689,Ideal,weekend
+2012-02-20,Spring,2012,Feb,Holiday,Monday,Clear,0.28,0.273391,50.7826,0.229083,502,2627,3129,Ideal,weekdays
+2012-02-21,Spring,2012,Feb,No Holiday,Tuesday,Clear,0.287826,0.295113,59.434799999999996,0.205717,163,3614,3777,Ideal,weekdays
+2012-02-22,Spring,2012,Feb,No Holiday,Wednesday,Clear,0.395833,0.392667,56.7917,0.234471,394,4379,4773,Ideal,weekdays
+2012-02-23,Spring,2012,Feb,No Holiday,Thursday,Clear,0.454167,0.444446,55.45830000000001,0.190913,516,4546,5062,Ideal,weekdays
+2012-02-24,Spring,2012,Feb,No Holiday,Friday,Misty,0.4075,0.410971,73.75,0.237567,246,3241,3487,Terlalu Lembab,weekdays
+2012-02-25,Spring,2012,Feb,No Holiday,Saturday,Clear,0.290833,0.255675,39.5833,0.421642,317,2415,2732,Terlalu kering,weekend
+2012-02-26,Spring,2012,Feb,No Holiday,Sunday,Clear,0.279167,0.268308,41.0,0.205229,515,2874,3389,Terlalu kering,weekend
+2012-02-27,Spring,2012,Feb,No Holiday,Monday,Clear,0.366667,0.357954,49.0833,0.268033,253,4069,4322,Ideal,weekdays
+2012-02-28,Spring,2012,Feb,No Holiday,Tuesday,Clear,0.359167,0.353525,39.5833,0.193417,229,4134,4363,Terlalu kering,weekdays
+2012-02-29,Spring,2012,Feb,No Holiday,Wednesday,Misty,0.344348,0.34847,80.4783,0.179117,65,1769,1834,Terlalu Lembab,weekdays
+2012-03-01,Spring,2012,Mar,No Holiday,Thursday,Clear,0.485833,0.475371,61.5417,0.226987,325,4665,4990,Ideal,weekdays
+2012-03-02,Spring,2012,Mar,No Holiday,Friday,Misty,0.353333,0.359842,65.7083,0.144904,246,2948,3194,Terlalu Lembab,weekdays
+2012-03-03,Spring,2012,Mar,No Holiday,Saturday,Misty,0.414167,0.413492,62.125,0.161079,956,3110,4066,Ideal,weekend
+2012-03-04,Spring,2012,Mar,No Holiday,Sunday,Clear,0.325833,0.303021,40.3333,0.334571,710,2713,3423,Terlalu kering,weekend
+2012-03-05,Spring,2012,Mar,No Holiday,Monday,Clear,0.243333,0.241171,50.625,0.228858,203,3130,3333,Ideal,weekdays
+2012-03-06,Spring,2012,Mar,No Holiday,Tuesday,Clear,0.258333,0.255042,45.6667,0.200875,221,3735,3956,Ideal,weekdays
+2012-03-07,Spring,2012,Mar,No Holiday,Wednesday,Clear,0.404167,0.3851,51.3333,0.345779,432,4484,4916,Ideal,weekdays
+2012-03-08,Spring,2012,Mar,No Holiday,Thursday,Clear,0.5275,0.524604,56.75,0.441563,486,4896,5382,Ideal,weekdays
+2012-03-09,Spring,2012,Mar,No Holiday,Friday,Misty,0.410833,0.397083,40.708299999999994,0.4148,447,4122,4569,Terlalu kering,weekdays
+2012-03-10,Spring,2012,Mar,No Holiday,Saturday,Clear,0.2875,0.277767,35.0417,0.22575,968,3150,4118,Terlalu kering,weekend
+2012-03-11,Spring,2012,Mar,No Holiday,Sunday,Clear,0.361739,0.35967,47.6957,0.222587,1658,3253,4911,Ideal,weekend
+2012-03-12,Spring,2012,Mar,No Holiday,Monday,Clear,0.466667,0.459592,48.9167,0.207713,838,4460,5298,Ideal,weekdays
+2012-03-13,Spring,2012,Mar,No Holiday,Tuesday,Clear,0.565,0.542929,61.75000000000001,0.23695,762,5085,5847,Ideal,weekdays
+2012-03-14,Spring,2012,Mar,No Holiday,Wednesday,Clear,0.5725,0.548617,50.708299999999994,0.115062,997,5315,6312,Ideal,weekdays
+2012-03-15,Spring,2012,Mar,No Holiday,Thursday,Clear,0.5575,0.532825,57.958299999999994,0.149883,1005,5187,6192,Ideal,weekdays
+2012-03-16,Spring,2012,Mar,No Holiday,Friday,Misty,0.435833,0.436229,84.20830000000001,0.113192,548,3830,4378,Terlalu Lembab,weekdays
+2012-03-17,Spring,2012,Mar,No Holiday,Saturday,Misty,0.514167,0.505046,75.5833,0.110704,3155,4681,7836,Terlalu Lembab,weekend
+2012-03-18,Spring,2012,Mar,No Holiday,Sunday,Misty,0.4725,0.464,81.0,0.126883,2207,3685,5892,Terlalu Lembab,weekend
+2012-03-19,Spring,2012,Mar,No Holiday,Monday,Clear,0.545,0.532821,72.875,0.162317,982,5171,6153,Terlalu Lembab,weekdays
+2012-03-20,Spring,2012,Mar,No Holiday,Tuesday,Clear,0.560833,0.538533,80.7917,0.121271,1051,5042,6093,Terlalu Lembab,weekdays
+2012-03-21,Summer,2012,Mar,No Holiday,Wednesday,Misty,0.531667,0.513258,82.125,0.0895583,1122,5108,6230,Terlalu Lembab,weekdays
+2012-03-22,Summer,2012,Mar,No Holiday,Thursday,Clear,0.554167,0.531567,83.125,0.117562,1334,5537,6871,Terlalu Lembab,weekdays
+2012-03-23,Summer,2012,Mar,No Holiday,Friday,Misty,0.601667,0.570067,69.41669999999999,0.1163,2469,5893,8362,Terlalu Lembab,weekdays
+2012-03-24,Summer,2012,Mar,No Holiday,Saturday,Misty,0.5025,0.486733,88.5417,0.192783,1033,2339,3372,Terlalu Lembab,weekend
+2012-03-25,Summer,2012,Mar,No Holiday,Sunday,Misty,0.4375,0.437488,88.0833,0.220775,1532,3464,4996,Terlalu Lembab,weekend
+2012-03-26,Summer,2012,Mar,No Holiday,Monday,Clear,0.445833,0.43875,47.7917,0.386821,795,4763,5558,Ideal,weekdays
+2012-03-27,Summer,2012,Mar,No Holiday,Tuesday,Clear,0.323333,0.315654,28.999999999999996,0.187192,531,4571,5102,Terlalu kering,weekdays
+2012-03-28,Summer,2012,Mar,No Holiday,Wednesday,Clear,0.484167,0.47095,48.125,0.291671,674,5024,5698,Ideal,weekdays
+2012-03-29,Summer,2012,Mar,No Holiday,Thursday,Clear,0.494167,0.482304,43.9167,0.31965,834,5299,6133,Terlalu kering,weekdays
+2012-03-30,Summer,2012,Mar,No Holiday,Friday,Misty,0.37,0.375621,58.0833,0.138067,796,4663,5459,Ideal,weekdays
+2012-03-31,Summer,2012,Mar,No Holiday,Saturday,Misty,0.424167,0.421708,73.83330000000001,0.250617,2301,3934,6235,Terlalu Lembab,weekend
+2012-04-01,Summer,2012,Apr,No Holiday,Sunday,Misty,0.425833,0.417287,67.625,0.172267,2347,3694,6041,Terlalu Lembab,weekend
+2012-04-02,Summer,2012,Apr,No Holiday,Monday,Clear,0.433913,0.427513,50.4348,0.312139,1208,4728,5936,Ideal,weekdays
+2012-04-03,Summer,2012,Apr,No Holiday,Tuesday,Clear,0.466667,0.461483,39.6667,0.100133,1348,5424,6772,Terlalu kering,weekdays
+2012-04-04,Summer,2012,Apr,No Holiday,Wednesday,Clear,0.541667,0.53345,46.958299999999994,0.180975,1058,5378,6436,Ideal,weekdays
+2012-04-05,Summer,2012,Apr,No Holiday,Thursday,Clear,0.435,0.431163,37.416700000000006,0.219529,1192,5265,6457,Terlalu kering,weekdays
+2012-04-06,Summer,2012,Apr,No Holiday,Friday,Clear,0.403333,0.390767,37.7083,0.300388,1807,4653,6460,Terlalu kering,weekdays
+2012-04-07,Summer,2012,Apr,No Holiday,Saturday,Clear,0.4375,0.426129,25.4167,0.274871,3252,3605,6857,Terlalu kering,weekend
+2012-04-08,Summer,2012,Apr,No Holiday,Sunday,Clear,0.5,0.492425,27.5833,0.232596,2230,2939,5169,Terlalu kering,weekend
+2012-04-09,Summer,2012,Apr,No Holiday,Monday,Clear,0.489167,0.476638,31.75,0.358196,905,4680,5585,Terlalu kering,weekdays
+2012-04-10,Summer,2012,Apr,No Holiday,Tuesday,Clear,0.446667,0.436233,43.5,0.249375,819,5099,5918,Terlalu kering,weekdays
+2012-04-11,Summer,2012,Apr,No Holiday,Wednesday,Clear,0.348696,0.337274,46.9565,0.295274,482,4380,4862,Ideal,weekdays
+2012-04-12,Summer,2012,Apr,No Holiday,Thursday,Clear,0.3975,0.387604,46.625,0.290429,663,4746,5409,Ideal,weekdays
+2012-04-13,Summer,2012,Apr,No Holiday,Friday,Clear,0.4425,0.431808,40.8333,0.155471,1252,5146,6398,Terlalu kering,weekdays
+2012-04-14,Summer,2012,Apr,No Holiday,Saturday,Clear,0.495,0.487996,50.29169999999999,0.190917,2795,4665,7460,Ideal,weekend
+2012-04-15,Summer,2012,Apr,No Holiday,Sunday,Clear,0.606667,0.573875,50.79169999999999,0.225129,2846,4286,7132,Ideal,weekend
+2012-04-16,Summer,2012,Apr,Holiday,Monday,Clear,0.664167,0.614925,56.166700000000006,0.284829,1198,5172,6370,Ideal,weekdays
+2012-04-17,Summer,2012,Apr,No Holiday,Tuesday,Clear,0.608333,0.598487,39.0417,0.273629,989,5702,6691,Terlalu kering,weekdays
+2012-04-18,Summer,2012,Apr,No Holiday,Wednesday,Misty,0.463333,0.457038,56.9167,0.167912,347,4020,4367,Ideal,weekdays
+2012-04-19,Summer,2012,Apr,No Holiday,Thursday,Clear,0.498333,0.493046,61.25000000000001,0.0659292,846,5719,6565,Ideal,weekdays
+2012-04-20,Summer,2012,Apr,No Holiday,Friday,Clear,0.526667,0.515775,69.4583,0.149871,1340,5950,7290,Terlalu Lembab,weekdays
+2012-04-21,Summer,2012,Apr,No Holiday,Saturday,Clear,0.57,0.542921,68.2917,0.283587,2541,4083,6624,Terlalu Lembab,weekend
+2012-04-22,Summer,2012,Apr,No Holiday,Sunday,Light_rainsnow,0.396667,0.389504,83.54169999999999,0.344546,120,907,1027,Terlalu Lembab,weekend
+2012-04-23,Summer,2012,Apr,No Holiday,Monday,Misty,0.321667,0.301125,76.66669999999999,0.303496,195,3019,3214,Terlalu Lembab,weekdays
+2012-04-24,Summer,2012,Apr,No Holiday,Tuesday,Clear,0.413333,0.405283,45.4167,0.249383,518,5115,5633,Ideal,weekdays
+2012-04-25,Summer,2012,Apr,No Holiday,Wednesday,Clear,0.476667,0.470317,42.7917,0.118792,655,5541,6196,Terlalu kering,weekdays
+2012-04-26,Summer,2012,Apr,No Holiday,Thursday,Misty,0.498333,0.483583,75.66669999999999,0.176625,475,4551,5026,Terlalu Lembab,weekdays
+2012-04-27,Summer,2012,Apr,No Holiday,Friday,Clear,0.4575,0.452637,40.0833,0.347633,1014,5219,6233,Terlalu kering,weekdays
+2012-04-28,Summer,2012,Apr,No Holiday,Saturday,Misty,0.376667,0.377504,48.9583,0.129975,1120,3100,4220,Ideal,weekend
+2012-04-29,Summer,2012,Apr,No Holiday,Sunday,Clear,0.458333,0.450121,58.7083,0.116908,2229,4075,6304,Ideal,weekend
+2012-04-30,Summer,2012,Apr,No Holiday,Monday,Misty,0.464167,0.457696,56.99999999999999,0.171638,665,4907,5572,Ideal,weekdays
+2012-05-01,Summer,2012,May,No Holiday,Tuesday,Misty,0.613333,0.577021,65.95830000000001,0.156096,653,5087,5740,Terlalu Lembab,weekdays
+2012-05-02,Summer,2012,May,No Holiday,Wednesday,Clear,0.564167,0.537896,79.7083,0.138058,667,5502,6169,Terlalu Lembab,weekdays
+2012-05-03,Summer,2012,May,No Holiday,Thursday,Misty,0.56,0.537242,76.83330000000001,0.133696,764,5657,6421,Terlalu Lembab,weekdays
+2012-05-04,Summer,2012,May,No Holiday,Friday,Clear,0.6275,0.590917,73.54169999999999,0.162938,1069,5227,6296,Terlalu Lembab,weekdays
+2012-05-05,Summer,2012,May,No Holiday,Saturday,Misty,0.621667,0.584608,75.66669999999999,0.152992,2496,4387,6883,Terlalu Lembab,weekend
+2012-05-06,Summer,2012,May,No Holiday,Sunday,Misty,0.5625,0.546737,74.0,0.149879,2135,4224,6359,Terlalu Lembab,weekend
+2012-05-07,Summer,2012,May,No Holiday,Monday,Misty,0.5375,0.527142,66.41669999999999,0.230721,1008,5265,6273,Terlalu Lembab,weekdays
+2012-05-08,Summer,2012,May,No Holiday,Tuesday,Misty,0.581667,0.557471,68.58330000000001,0.296029,738,4990,5728,Terlalu Lembab,weekdays
+2012-05-09,Summer,2012,May,No Holiday,Wednesday,Misty,0.575,0.553025,74.4167,0.216412,620,4097,4717,Terlalu Lembab,weekdays
+2012-05-10,Summer,2012,May,No Holiday,Thursday,Clear,0.505833,0.491783,55.2083,0.314063,1026,5546,6572,Ideal,weekdays
+2012-05-11,Summer,2012,May,No Holiday,Friday,Clear,0.533333,0.520833,36.0417,0.236937,1319,5711,7030,Terlalu kering,weekdays
+2012-05-12,Summer,2012,May,No Holiday,Saturday,Clear,0.564167,0.544817,48.0417,0.123133,2622,4807,7429,Ideal,weekend
+2012-05-13,Summer,2012,May,No Holiday,Sunday,Clear,0.6125,0.585238,57.62500000000001,0.225117,2172,3946,6118,Ideal,weekend
+2012-05-14,Summer,2012,May,No Holiday,Monday,Misty,0.573333,0.5499,78.95830000000001,0.212692,342,2501,2843,Terlalu Lembab,weekdays
+2012-05-15,Summer,2012,May,No Holiday,Tuesday,Misty,0.611667,0.576404,79.45830000000001,0.147392,625,4490,5115,Terlalu Lembab,weekdays
+2012-05-16,Summer,2012,May,No Holiday,Wednesday,Clear,0.636667,0.595975,69.7917,0.122512,991,6433,7424,Terlalu Lembab,weekdays
+2012-05-17,Summer,2012,May,No Holiday,Thursday,Clear,0.593333,0.572613,52.0,0.229475,1242,6142,7384,Ideal,weekdays
+2012-05-18,Summer,2012,May,No Holiday,Friday,Clear,0.564167,0.551121,52.33330000000001,0.136817,1521,6118,7639,Ideal,weekdays
+2012-05-19,Summer,2012,May,No Holiday,Saturday,Clear,0.6,0.566908,45.625,0.083975,3410,4884,8294,Ideal,weekend
+2012-05-20,Summer,2012,May,No Holiday,Sunday,Clear,0.620833,0.583967,53.041700000000006,0.254367,2704,4425,7129,Ideal,weekend
+2012-05-21,Summer,2012,May,No Holiday,Monday,Misty,0.598333,0.565667,81.125,0.233204,630,3729,4359,Terlalu Lembab,weekdays
+2012-05-22,Summer,2012,May,No Holiday,Tuesday,Misty,0.615,0.580825,76.5833,0.118167,819,5254,6073,Terlalu Lembab,weekdays
+2012-05-23,Summer,2012,May,No Holiday,Wednesday,Misty,0.621667,0.584612,77.45830000000001,0.102,766,4494,5260,Terlalu Lembab,weekdays
+2012-05-24,Summer,2012,May,No Holiday,Thursday,Clear,0.655,0.6067,71.6667,0.172896,1059,5711,6770,Terlalu Lembab,weekdays
+2012-05-25,Summer,2012,May,No Holiday,Friday,Clear,0.68,0.627529,74.70830000000001,0.14055,1417,5317,6734,Terlalu Lembab,weekdays
+2012-05-26,Summer,2012,May,No Holiday,Saturday,Clear,0.6925,0.642696,73.25,0.198992,2855,3681,6536,Terlalu Lembab,weekend
+2012-05-27,Summer,2012,May,No Holiday,Sunday,Clear,0.69,0.641425,69.7083,0.215171,3283,3308,6591,Terlalu Lembab,weekend
+2012-05-28,Summer,2012,May,Holiday,Monday,Clear,0.7125,0.6793,67.625,0.196521,2557,3486,6043,Terlalu Lembab,weekdays
+2012-05-29,Summer,2012,May,No Holiday,Tuesday,Clear,0.7225,0.672992,68.45830000000001,0.2954,880,4863,5743,Terlalu Lembab,weekdays
+2012-05-30,Summer,2012,May,No Holiday,Wednesday,Misty,0.656667,0.611129,67.0,0.134329,745,6110,6855,Terlalu Lembab,weekdays
+2012-05-31,Summer,2012,May,No Holiday,Thursday,Clear,0.68,0.631329,49.2917,0.195279,1100,6238,7338,Ideal,weekdays
+2012-06-01,Summer,2012,Jun,No Holiday,Friday,Misty,0.654167,0.607962,75.5417,0.237563,533,3594,4127,Terlalu Lembab,weekdays
+2012-06-02,Summer,2012,Jun,No Holiday,Saturday,Clear,0.583333,0.566288,54.9167,0.186562,2795,5325,8120,Ideal,weekend
+2012-06-03,Summer,2012,Jun,No Holiday,Sunday,Clear,0.6025,0.575133,49.3333,0.184087,2494,5147,7641,Ideal,weekend
+2012-06-04,Summer,2012,Jun,No Holiday,Monday,Clear,0.5975,0.578283,48.7083,0.284833,1071,5927,6998,Ideal,weekdays
+2012-06-05,Summer,2012,Jun,No Holiday,Tuesday,Misty,0.540833,0.525892,61.3333,0.209575,968,6033,7001,Ideal,weekdays
+2012-06-06,Summer,2012,Jun,No Holiday,Wednesday,Clear,0.554167,0.542292,61.12499999999999,0.077125,1027,6028,7055,Ideal,weekdays
+2012-06-07,Summer,2012,Jun,No Holiday,Thursday,Clear,0.6025,0.569442,56.7083,0.15735,1038,6456,7494,Ideal,weekdays
+2012-06-08,Summer,2012,Jun,No Holiday,Friday,Clear,0.649167,0.597862,46.791700000000006,0.175383,1488,6248,7736,Ideal,weekdays
+2012-06-09,Summer,2012,Jun,No Holiday,Saturday,Clear,0.710833,0.648367,43.7083,0.144287,2708,4790,7498,Terlalu kering,weekend
+2012-06-10,Summer,2012,Jun,No Holiday,Sunday,Clear,0.726667,0.663517,53.833299999999994,0.133721,2224,4374,6598,Ideal,weekend
+2012-06-11,Summer,2012,Jun,No Holiday,Monday,Misty,0.720833,0.659721,58.791700000000006,0.207713,1017,5647,6664,Ideal,weekdays
+2012-06-12,Summer,2012,Jun,No Holiday,Tuesday,Misty,0.653333,0.597875,83.3333,0.214546,477,4495,4972,Terlalu Lembab,weekdays
+2012-06-13,Summer,2012,Jun,No Holiday,Wednesday,Clear,0.655833,0.611117,58.2083,0.343279,1173,6248,7421,Ideal,weekdays
+2012-06-14,Summer,2012,Jun,No Holiday,Thursday,Clear,0.648333,0.624383,56.958299999999994,0.253733,1180,6183,7363,Ideal,weekdays
+2012-06-15,Summer,2012,Jun,No Holiday,Friday,Clear,0.639167,0.599754,58.958299999999994,0.176617,1563,6102,7665,Ideal,weekdays
+2012-06-16,Summer,2012,Jun,No Holiday,Saturday,Clear,0.631667,0.594708,50.416700000000006,0.166667,2963,4739,7702,Ideal,weekend
+2012-06-17,Summer,2012,Jun,No Holiday,Sunday,Clear,0.5925,0.571975,59.875,0.144904,2634,4344,6978,Ideal,weekend
+2012-06-18,Summer,2012,Jun,No Holiday,Monday,Misty,0.568333,0.544842,77.79169999999999,0.174746,653,4446,5099,Terlalu Lembab,weekdays
+2012-06-19,Summer,2012,Jun,No Holiday,Tuesday,Clear,0.688333,0.654692,69.0,0.148017,968,5857,6825,Terlalu Lembab,weekdays
+2012-06-20,Summer,2012,Jun,No Holiday,Wednesday,Clear,0.7825,0.720975,59.2083,0.113812,872,5339,6211,Ideal,weekdays
+2012-06-21,Fall,2012,Jun,No Holiday,Thursday,Clear,0.805833,0.752542,56.7917,0.118787,778,5127,5905,Ideal,weekdays
+2012-06-22,Fall,2012,Jun,No Holiday,Friday,Clear,0.7775,0.724121,57.375,0.182842,964,4859,5823,Ideal,weekdays
+2012-06-23,Fall,2012,Jun,No Holiday,Saturday,Clear,0.731667,0.652792,53.4583,0.179721,2657,4801,7458,Ideal,weekend
+2012-06-24,Fall,2012,Jun,No Holiday,Sunday,Clear,0.743333,0.674254,47.9167,0.145525,2551,4340,6891,Ideal,weekend
+2012-06-25,Fall,2012,Jun,No Holiday,Monday,Clear,0.715833,0.654042,50.416700000000006,0.300383,1139,5640,6779,Ideal,weekdays
+2012-06-26,Fall,2012,Jun,No Holiday,Tuesday,Clear,0.630833,0.594704,37.3333,0.347642,1077,6365,7442,Terlalu kering,weekdays
+2012-06-27,Fall,2012,Jun,No Holiday,Wednesday,Clear,0.6975,0.640792,36.0,0.271775,1077,6258,7335,Terlalu kering,weekdays
+2012-06-28,Fall,2012,Jun,No Holiday,Thursday,Clear,0.749167,0.675512,42.25,0.17165,921,5958,6879,Terlalu kering,weekdays
+2012-06-29,Fall,2012,Jun,No Holiday,Friday,Clear,0.834167,0.786613,48.875,0.165417,829,4634,5463,Ideal,weekdays
+2012-06-30,Fall,2012,Jun,No Holiday,Saturday,Clear,0.765,0.687508,60.12499999999999,0.161071,1455,4232,5687,Ideal,weekend
+2012-07-01,Fall,2012,Jul,No Holiday,Sunday,Clear,0.815833,0.750629,51.87500000000001,0.168529,1421,4110,5531,Ideal,weekend
+2012-07-02,Fall,2012,Jul,No Holiday,Monday,Clear,0.781667,0.702038,44.7083,0.195267,904,5323,6227,Terlalu kering,weekdays
+2012-07-03,Fall,2012,Jul,No Holiday,Tuesday,Clear,0.780833,0.70265,49.2083,0.126237,1052,5608,6660,Ideal,weekdays
+2012-07-04,Fall,2012,Jul,Holiday,Wednesday,Clear,0.789167,0.732337,53.87499999999999,0.13495,2562,4841,7403,Ideal,weekdays
+2012-07-05,Fall,2012,Jul,No Holiday,Thursday,Clear,0.8275,0.761367,45.7917,0.194029,1405,4836,6241,Ideal,weekdays
+2012-07-06,Fall,2012,Jul,No Holiday,Friday,Clear,0.828333,0.752533,45.0833,0.146142,1366,4841,6207,Ideal,weekdays
+2012-07-07,Fall,2012,Jul,No Holiday,Saturday,Clear,0.861667,0.804913,49.2083,0.163554,1448,3392,4840,Ideal,weekend
+2012-07-08,Fall,2012,Jul,No Holiday,Sunday,Clear,0.8225,0.790396,57.375,0.125629,1203,3469,4672,Ideal,weekend
+2012-07-09,Fall,2012,Jul,No Holiday,Monday,Misty,0.710833,0.654054,68.3333,0.180975,998,5571,6569,Terlalu Lembab,weekdays
+2012-07-10,Fall,2012,Jul,No Holiday,Tuesday,Misty,0.720833,0.664796,66.75,0.151737,954,5336,6290,Terlalu Lembab,weekdays
+2012-07-11,Fall,2012,Jul,No Holiday,Wednesday,Clear,0.716667,0.650271,63.3333,0.151733,975,6289,7264,Ideal,weekdays
+2012-07-12,Fall,2012,Jul,No Holiday,Thursday,Clear,0.715833,0.654683,52.9583,0.146775,1032,6414,7446,Ideal,weekdays
+2012-07-13,Fall,2012,Jul,No Holiday,Friday,Misty,0.731667,0.667933,48.5833,0.08085,1511,5988,7499,Ideal,weekdays
+2012-07-14,Fall,2012,Jul,No Holiday,Saturday,Misty,0.703333,0.666042,69.91669999999999,0.143679,2355,4614,6969,Terlalu Lembab,weekend
+2012-07-15,Fall,2012,Jul,No Holiday,Sunday,Clear,0.745833,0.705196,71.7917,0.166667,1920,4111,6031,Terlalu Lembab,weekend
+2012-07-16,Fall,2012,Jul,No Holiday,Monday,Clear,0.763333,0.724125,64.5,0.164187,1088,5742,6830,Ideal,weekdays
+2012-07-17,Fall,2012,Jul,No Holiday,Tuesday,Clear,0.818333,0.755683,50.583299999999994,0.114429,921,5865,6786,Ideal,weekdays
+2012-07-18,Fall,2012,Jul,No Holiday,Wednesday,Clear,0.793333,0.745583,57.7083,0.137442,799,4914,5713,Ideal,weekdays
+2012-07-19,Fall,2012,Jul,No Holiday,Thursday,Clear,0.77,0.714642,60.0417,0.165429,888,5703,6591,Ideal,weekdays
+2012-07-20,Fall,2012,Jul,No Holiday,Friday,Misty,0.665833,0.613025,84.4167,0.208967,747,5123,5870,Terlalu Lembab,weekdays
+2012-07-21,Fall,2012,Jul,No Holiday,Saturday,Light_rainsnow,0.595833,0.549912,86.5417,0.2133,1264,3195,4459,Terlalu Lembab,weekend
+2012-07-22,Fall,2012,Jul,No Holiday,Sunday,Misty,0.6675,0.623125,76.25,0.0939208,2544,4866,7410,Terlalu Lembab,weekend
+2012-07-23,Fall,2012,Jul,No Holiday,Monday,Clear,0.741667,0.690017,69.41669999999999,0.138683,1135,5831,6966,Terlalu Lembab,weekdays
+2012-07-24,Fall,2012,Jul,No Holiday,Tuesday,Clear,0.750833,0.70645,65.5,0.211454,1140,6452,7592,Terlalu Lembab,weekdays
+2012-07-25,Fall,2012,Jul,No Holiday,Wednesday,Clear,0.724167,0.654054,45.0,0.1648,1383,6790,8173,Ideal,weekdays
+2012-07-26,Fall,2012,Jul,No Holiday,Thursday,Clear,0.776667,0.739263,59.66669999999999,0.284813,1036,5825,6861,Ideal,weekdays
+2012-07-27,Fall,2012,Jul,No Holiday,Friday,Clear,0.781667,0.734217,59.458299999999994,0.152992,1259,5645,6904,Ideal,weekdays
+2012-07-28,Fall,2012,Jul,No Holiday,Saturday,Clear,0.755833,0.697604,61.3333,0.15735,2234,4451,6685,Ideal,weekend
+2012-07-29,Fall,2012,Jul,No Holiday,Sunday,Clear,0.721667,0.667933,62.375,0.170396,2153,4444,6597,Ideal,weekend
+2012-07-30,Fall,2012,Jul,No Holiday,Monday,Clear,0.730833,0.684987,66.875,0.153617,1040,6065,7105,Terlalu Lembab,weekdays
+2012-07-31,Fall,2012,Jul,No Holiday,Tuesday,Clear,0.713333,0.662896,70.41669999999999,0.165425,968,6248,7216,Terlalu Lembab,weekdays
+2012-08-01,Fall,2012,Aug,No Holiday,Wednesday,Clear,0.7175,0.667308,67.75,0.141179,1074,6506,7580,Terlalu Lembab,weekdays
+2012-08-02,Fall,2012,Aug,No Holiday,Thursday,Clear,0.7525,0.707088,65.95830000000001,0.129354,983,6278,7261,Terlalu Lembab,weekdays
+2012-08-03,Fall,2012,Aug,No Holiday,Friday,Misty,0.765833,0.722867,64.25,0.215792,1328,5847,7175,Ideal,weekdays
+2012-08-04,Fall,2012,Aug,No Holiday,Saturday,Clear,0.793333,0.751267,61.3333,0.257458,2345,4479,6824,Ideal,weekend
+2012-08-05,Fall,2012,Aug,No Holiday,Sunday,Clear,0.769167,0.731079,65.25,0.290421,1707,3757,5464,Terlalu Lembab,weekend
+2012-08-06,Fall,2012,Aug,No Holiday,Monday,Misty,0.7525,0.710246,65.4167,0.129354,1233,5780,7013,Terlalu Lembab,weekdays
+2012-08-07,Fall,2012,Aug,No Holiday,Tuesday,Misty,0.735833,0.697621,70.375,0.116908,1278,5995,7273,Terlalu Lembab,weekdays
+2012-08-08,Fall,2012,Aug,No Holiday,Wednesday,Misty,0.75,0.707717,67.29169999999999,0.1107,1263,6271,7534,Terlalu Lembab,weekdays
+2012-08-09,Fall,2012,Aug,No Holiday,Thursday,Clear,0.755833,0.699508,62.0417,0.1561,1196,6090,7286,Ideal,weekdays
+2012-08-10,Fall,2012,Aug,No Holiday,Friday,Misty,0.715833,0.667942,71.58330000000001,0.238813,1065,4721,5786,Terlalu Lembab,weekdays
+2012-08-11,Fall,2012,Aug,No Holiday,Saturday,Misty,0.6925,0.638267,73.2917,0.206479,2247,4052,6299,Terlalu Lembab,weekend
+2012-08-12,Fall,2012,Aug,No Holiday,Sunday,Clear,0.700833,0.644579,53.041700000000006,0.122512,2182,4362,6544,Ideal,weekend
+2012-08-13,Fall,2012,Aug,No Holiday,Monday,Clear,0.720833,0.662254,54.541700000000006,0.136212,1207,5676,6883,Ideal,weekdays
+2012-08-14,Fall,2012,Aug,No Holiday,Tuesday,Clear,0.726667,0.676779,68.6667,0.169158,1128,5656,6784,Terlalu Lembab,weekdays
+2012-08-15,Fall,2012,Aug,No Holiday,Wednesday,Clear,0.706667,0.654037,61.9583,0.169771,1198,6149,7347,Ideal,weekdays
+2012-08-16,Fall,2012,Aug,No Holiday,Thursday,Clear,0.719167,0.654688,51.916700000000006,0.141796,1338,6267,7605,Ideal,weekdays
+2012-08-17,Fall,2012,Aug,No Holiday,Friday,Clear,0.723333,0.2424,57.0833,0.231354,1483,5665,7148,Ideal,weekdays
+2012-08-18,Fall,2012,Aug,No Holiday,Saturday,Clear,0.678333,0.618071,60.3333,0.177867,2827,5038,7865,Ideal,weekend
+2012-08-19,Fall,2012,Aug,No Holiday,Sunday,Misty,0.635833,0.603554,71.1667,0.08645,1208,3341,4549,Terlalu Lembab,weekend
+2012-08-20,Fall,2012,Aug,No Holiday,Monday,Misty,0.635833,0.595967,73.4167,0.129979,1026,5504,6530,Terlalu Lembab,weekdays
+2012-08-21,Fall,2012,Aug,No Holiday,Tuesday,Clear,0.649167,0.601025,67.375,0.0727708,1081,5925,7006,Terlalu Lembab,weekdays
+2012-08-22,Fall,2012,Aug,No Holiday,Wednesday,Clear,0.6675,0.621854,67.7083,0.0702833,1094,6281,7375,Terlalu Lembab,weekdays
+2012-08-23,Fall,2012,Aug,No Holiday,Thursday,Clear,0.695833,0.637008,63.5833,0.0845958,1363,6402,7765,Ideal,weekdays
+2012-08-24,Fall,2012,Aug,No Holiday,Friday,Misty,0.7025,0.6471,61.5,0.0721458,1325,6257,7582,Ideal,weekdays
+2012-08-25,Fall,2012,Aug,No Holiday,Saturday,Misty,0.661667,0.618696,71.2917,0.244408,1829,4224,6053,Terlalu Lembab,weekend
+2012-08-26,Fall,2012,Aug,No Holiday,Sunday,Misty,0.653333,0.595996,84.5833,0.228858,1483,3772,5255,Terlalu Lembab,weekend
+2012-08-27,Fall,2012,Aug,No Holiday,Monday,Clear,0.703333,0.654688,73.04169999999999,0.128733,989,5928,6917,Terlalu Lembab,weekdays
+2012-08-28,Fall,2012,Aug,No Holiday,Tuesday,Clear,0.728333,0.66605,62.0,0.190925,935,6105,7040,Ideal,weekdays
+2012-08-29,Fall,2012,Aug,No Holiday,Wednesday,Clear,0.685,0.635733,55.2083,0.112562,1177,6520,7697,Ideal,weekdays
+2012-08-30,Fall,2012,Aug,No Holiday,Thursday,Clear,0.706667,0.652779,59.0417,0.0771167,1172,6541,7713,Ideal,weekdays
+2012-08-31,Fall,2012,Aug,No Holiday,Friday,Clear,0.764167,0.6894,58.75,0.168533,1433,5917,7350,Ideal,weekdays
+2012-09-01,Fall,2012,Sep,No Holiday,Saturday,Misty,0.753333,0.702654,63.8333,0.113187,2352,3788,6140,Ideal,weekend
+2012-09-02,Fall,2012,Sep,No Holiday,Sunday,Misty,0.696667,0.649,81.5,0.0640708,2613,3197,5810,Terlalu Lembab,weekend
+2012-09-03,Fall,2012,Sep,Holiday,Monday,Clear,0.7075,0.661629,79.0833,0.151121,1965,4069,6034,Terlalu Lembab,weekdays
+2012-09-04,Fall,2012,Sep,No Holiday,Tuesday,Clear,0.725833,0.686888,75.5,0.236321,867,5997,6864,Terlalu Lembab,weekdays
+2012-09-05,Fall,2012,Sep,No Holiday,Wednesday,Clear,0.736667,0.708983,74.125,0.187808,832,6280,7112,Terlalu Lembab,weekdays
+2012-09-06,Fall,2012,Sep,No Holiday,Thursday,Misty,0.696667,0.655329,81.0417,0.142421,611,5592,6203,Terlalu Lembab,weekdays
+2012-09-07,Fall,2012,Sep,No Holiday,Friday,Clear,0.703333,0.657204,73.625,0.171646,1045,6459,7504,Terlalu Lembab,weekdays
+2012-09-08,Fall,2012,Sep,No Holiday,Saturday,Misty,0.659167,0.611121,79.91669999999999,0.281104,1557,4419,5976,Terlalu Lembab,weekend
+2012-09-09,Fall,2012,Sep,No Holiday,Sunday,Clear,0.61,0.578925,54.75,0.224496,2570,5657,8227,Ideal,weekend
+2012-09-10,Fall,2012,Sep,No Holiday,Monday,Clear,0.583333,0.565654,50.375,0.258713,1118,6407,7525,Ideal,weekdays
+2012-09-11,Fall,2012,Sep,No Holiday,Tuesday,Clear,0.5775,0.554292,52.0,0.0920542,1070,6697,7767,Ideal,weekdays
+2012-09-12,Fall,2012,Sep,No Holiday,Wednesday,Clear,0.599167,0.570075,57.7083,0.131846,1050,6820,7870,Ideal,weekdays
+2012-09-13,Fall,2012,Sep,No Holiday,Thursday,Clear,0.6125,0.579558,63.708299999999994,0.0827208,1054,6750,7804,Ideal,weekdays
+2012-09-14,Fall,2012,Sep,No Holiday,Friday,Clear,0.633333,0.594083,67.25,0.103863,1379,6630,8009,Terlalu Lembab,weekdays
+2012-09-15,Fall,2012,Sep,No Holiday,Saturday,Clear,0.608333,0.585867,50.1667,0.247521,3160,5554,8714,Ideal,weekend
+2012-09-16,Fall,2012,Sep,No Holiday,Sunday,Clear,0.58,0.563125,56.99999999999999,0.0901833,2166,5167,7333,Ideal,weekend
+2012-09-17,Fall,2012,Sep,No Holiday,Monday,Misty,0.580833,0.55305,73.4583,0.151742,1022,5847,6869,Terlalu Lembab,weekdays
+2012-09-18,Fall,2012,Sep,No Holiday,Tuesday,Misty,0.623333,0.565067,87.25,0.357587,371,3702,4073,Terlalu Lembab,weekdays
+2012-09-19,Fall,2012,Sep,No Holiday,Wednesday,Clear,0.5525,0.540404,53.6667,0.215175,788,6803,7591,Ideal,weekdays
+2012-09-20,Fall,2012,Sep,No Holiday,Thursday,Clear,0.546667,0.532192,61.8333,0.118167,939,6781,7720,Ideal,weekdays
+2012-09-21,Fall,2012,Sep,No Holiday,Friday,Clear,0.599167,0.571971,66.875,0.154229,1250,6917,8167,Terlalu Lembab,weekdays
+2012-09-22,Fall,2012,Sep,No Holiday,Saturday,Clear,0.65,0.610488,64.6667,0.283583,2512,5883,8395,Ideal,weekend
+2012-09-23,Winter,2012,Sep,No Holiday,Sunday,Clear,0.529167,0.518933,46.7083,0.223258,2454,5453,7907,Ideal,weekend
+2012-09-24,Winter,2012,Sep,No Holiday,Monday,Clear,0.514167,0.502513,49.2917,0.142404,1001,6435,7436,Ideal,weekdays
+2012-09-25,Winter,2012,Sep,No Holiday,Tuesday,Clear,0.55,0.544179,56.99999999999999,0.236321,845,6693,7538,Ideal,weekdays
+2012-09-26,Winter,2012,Sep,No Holiday,Wednesday,Clear,0.635,0.596613,63.083299999999994,0.2444,787,6946,7733,Ideal,weekdays
+2012-09-27,Winter,2012,Sep,No Holiday,Thursday,Misty,0.65,0.607975,69.08330000000001,0.134342,751,6642,7393,Terlalu Lembab,weekdays
+2012-09-28,Winter,2012,Sep,No Holiday,Friday,Misty,0.619167,0.585863,69.0,0.164179,1045,6370,7415,Terlalu Lembab,weekdays
+2012-09-29,Winter,2012,Sep,No Holiday,Saturday,Clear,0.5425,0.530296,54.2917,0.227604,2589,5966,8555,Ideal,weekend
+2012-09-30,Winter,2012,Sep,No Holiday,Sunday,Clear,0.526667,0.517663,58.3333,0.134958,2015,4874,6889,Ideal,weekend
+2012-10-01,Winter,2012,Oct,No Holiday,Monday,Misty,0.520833,0.512,64.9167,0.0908042,763,6015,6778,Ideal,weekdays
+2012-10-02,Winter,2012,Oct,No Holiday,Tuesday,Light_rainsnow,0.590833,0.542333,87.16669999999999,0.104475,315,4324,4639,Terlalu Lembab,weekdays
+2012-10-03,Winter,2012,Oct,No Holiday,Wednesday,Misty,0.6575,0.599133,79.375,0.0665458,728,6844,7572,Terlalu Lembab,weekdays
+2012-10-04,Winter,2012,Oct,No Holiday,Thursday,Misty,0.6575,0.607975,72.2917,0.117546,891,6437,7328,Terlalu Lembab,weekdays
+2012-10-05,Winter,2012,Oct,No Holiday,Friday,Clear,0.615,0.580187,62.74999999999999,0.10635,1516,6640,8156,Ideal,weekdays
+2012-10-06,Winter,2012,Oct,No Holiday,Saturday,Clear,0.554167,0.538521,66.41669999999999,0.268025,3031,4934,7965,Terlalu Lembab,weekend
+2012-10-07,Winter,2012,Oct,No Holiday,Sunday,Misty,0.415833,0.419813,70.8333,0.141162,781,2729,3510,Terlalu Lembab,weekend
+2012-10-08,Winter,2012,Oct,Holiday,Monday,Misty,0.383333,0.387608,70.9583,0.189679,874,4604,5478,Terlalu Lembab,weekdays
+2012-10-09,Winter,2012,Oct,No Holiday,Tuesday,Misty,0.446667,0.438112,76.16669999999999,0.1903,601,5791,6392,Terlalu Lembab,weekdays
+2012-10-10,Winter,2012,Oct,No Holiday,Wednesday,Clear,0.514167,0.503142,63.083299999999994,0.187821,780,6911,7691,Ideal,weekdays
+2012-10-11,Winter,2012,Oct,No Holiday,Thursday,Clear,0.435,0.431167,46.3333,0.181596,834,6736,7570,Ideal,weekdays
+2012-10-12,Winter,2012,Oct,No Holiday,Friday,Clear,0.4375,0.433071,53.91669999999999,0.235092,1060,6222,7282,Ideal,weekdays
+2012-10-13,Winter,2012,Oct,No Holiday,Saturday,Clear,0.393333,0.391396,49.4583,0.146142,2252,4857,7109,Ideal,weekend
+2012-10-14,Winter,2012,Oct,No Holiday,Sunday,Clear,0.521667,0.508204,64.0417,0.278612,2080,4559,6639,Ideal,weekend
+2012-10-15,Winter,2012,Oct,No Holiday,Monday,Misty,0.561667,0.53915,70.75,0.296037,760,5115,5875,Terlalu Lembab,weekdays
+2012-10-16,Winter,2012,Oct,No Holiday,Tuesday,Clear,0.468333,0.460846,55.833299999999994,0.182221,922,6612,7534,Ideal,weekdays
+2012-10-17,Winter,2012,Oct,No Holiday,Wednesday,Clear,0.455833,0.450108,69.2917,0.101371,979,6482,7461,Terlalu Lembab,weekdays
+2012-10-18,Winter,2012,Oct,No Holiday,Thursday,Misty,0.5225,0.512625,72.8333,0.236937,1008,6501,7509,Terlalu Lembab,weekdays
+2012-10-19,Winter,2012,Oct,No Holiday,Friday,Misty,0.563333,0.537896,81.5,0.134954,753,4671,5424,Terlalu Lembab,weekdays
+2012-10-20,Winter,2012,Oct,No Holiday,Saturday,Clear,0.484167,0.472842,57.2917,0.117537,2806,5284,8090,Ideal,weekend
+2012-10-21,Winter,2012,Oct,No Holiday,Sunday,Clear,0.464167,0.456429,51.0,0.166054,2132,4692,6824,Ideal,weekend
+2012-10-22,Winter,2012,Oct,No Holiday,Monday,Clear,0.4875,0.482942,56.833299999999994,0.0814833,830,6228,7058,Ideal,weekdays
+2012-10-23,Winter,2012,Oct,No Holiday,Tuesday,Clear,0.544167,0.530304,64.16669999999999,0.0945458,841,6625,7466,Ideal,weekdays
+2012-10-24,Winter,2012,Oct,No Holiday,Wednesday,Clear,0.5875,0.558721,63.625,0.0727792,795,6898,7693,Ideal,weekdays
+2012-10-25,Winter,2012,Oct,No Holiday,Thursday,Misty,0.55,0.529688,80.0417,0.124375,875,6484,7359,Terlalu Lembab,weekdays
+2012-10-26,Winter,2012,Oct,No Holiday,Friday,Misty,0.545833,0.52275,80.7083,0.132467,1182,6262,7444,Terlalu Lembab,weekdays
+2012-10-27,Winter,2012,Oct,No Holiday,Saturday,Misty,0.53,0.515133,72.0,0.235692,2643,5209,7852,Terlalu Lembab,weekend
+2012-10-28,Winter,2012,Oct,No Holiday,Sunday,Misty,0.4775,0.467771,69.4583,0.398008,998,3461,4459,Terlalu Lembab,weekend
+2012-10-29,Winter,2012,Oct,No Holiday,Monday,Light_rainsnow,0.44,0.4394,88.0,0.3582,2,20,22,Terlalu Lembab,weekdays
+2012-10-30,Winter,2012,Oct,No Holiday,Tuesday,Misty,0.318182,0.309909,82.5455,0.213009,87,1009,1096,Terlalu Lembab,weekdays
+2012-10-31,Winter,2012,Oct,No Holiday,Wednesday,Misty,0.3575,0.3611,66.6667,0.166667,419,5147,5566,Terlalu Lembab,weekdays
+2012-11-01,Winter,2012,Nov,No Holiday,Thursday,Misty,0.365833,0.369942,58.166700000000006,0.157346,466,5520,5986,Ideal,weekdays
+2012-11-02,Winter,2012,Nov,No Holiday,Friday,Clear,0.355,0.356042,52.208299999999994,0.266175,618,5229,5847,Ideal,weekdays
+2012-11-03,Winter,2012,Nov,No Holiday,Saturday,Misty,0.343333,0.323846,49.125,0.270529,1029,4109,5138,Ideal,weekend
+2012-11-04,Winter,2012,Nov,No Holiday,Sunday,Clear,0.325833,0.329538,53.2917,0.179108,1201,3906,5107,Ideal,weekend
+2012-11-05,Winter,2012,Nov,No Holiday,Monday,Clear,0.319167,0.308075,49.416700000000006,0.236325,378,4881,5259,Ideal,weekdays
+2012-11-06,Winter,2012,Nov,No Holiday,Tuesday,Clear,0.280833,0.281567,56.7083,0.173513,466,5220,5686,Ideal,weekdays
+2012-11-07,Winter,2012,Nov,No Holiday,Wednesday,Misty,0.295833,0.274621,54.75,0.304108,326,4709,5035,Ideal,weekdays
+2012-11-08,Winter,2012,Nov,No Holiday,Thursday,Clear,0.352174,0.341891,33.3478,0.347835,340,4975,5315,Terlalu kering,weekdays
+2012-11-09,Winter,2012,Nov,No Holiday,Friday,Clear,0.361667,0.355413,54.0833,0.214558,709,5283,5992,Ideal,weekdays
+2012-11-10,Winter,2012,Nov,No Holiday,Saturday,Clear,0.389167,0.393937,64.5417,0.0578458,2090,4446,6536,Ideal,weekend
+2012-11-11,Winter,2012,Nov,No Holiday,Sunday,Clear,0.420833,0.421713,65.91669999999999,0.1275,2290,4562,6852,Terlalu Lembab,weekend
+2012-11-12,Winter,2012,Nov,Holiday,Monday,Clear,0.485,0.475383,74.16669999999999,0.173517,1097,5172,6269,Terlalu Lembab,weekdays
+2012-11-13,Winter,2012,Nov,No Holiday,Tuesday,Misty,0.343333,0.323225,66.29169999999999,0.342046,327,3767,4094,Terlalu Lembab,weekdays
+2012-11-14,Winter,2012,Nov,No Holiday,Wednesday,Clear,0.289167,0.281563,55.2083,0.199625,373,5122,5495,Ideal,weekdays
+2012-11-15,Winter,2012,Nov,No Holiday,Thursday,Misty,0.321667,0.324492,62.0417,0.152987,320,5125,5445,Ideal,weekdays
+2012-11-16,Winter,2012,Nov,No Holiday,Friday,Clear,0.345,0.347204,52.4583,0.171025,484,5214,5698,Ideal,weekdays
+2012-11-17,Winter,2012,Nov,No Holiday,Saturday,Clear,0.325,0.326383,54.541700000000006,0.179729,1313,4316,5629,Ideal,weekend
+2012-11-18,Winter,2012,Nov,No Holiday,Sunday,Clear,0.3425,0.337746,69.2917,0.227612,922,3747,4669,Terlalu Lembab,weekend
+2012-11-19,Winter,2012,Nov,No Holiday,Monday,Misty,0.380833,0.375621,62.3333,0.235067,449,5050,5499,Ideal,weekdays
+2012-11-20,Winter,2012,Nov,No Holiday,Tuesday,Misty,0.374167,0.380667,68.5,0.082725,534,5100,5634,Terlalu Lembab,weekdays
+2012-11-21,Winter,2012,Nov,No Holiday,Wednesday,Clear,0.353333,0.364892,61.375,0.103246,615,4531,5146,Ideal,weekdays
+2012-11-22,Winter,2012,Nov,Holiday,Thursday,Clear,0.34,0.350371,58.0417,0.0528708,955,1470,2425,Ideal,weekdays
+2012-11-23,Winter,2012,Nov,No Holiday,Friday,Clear,0.368333,0.378779,56.875,0.148021,1603,2307,3910,Ideal,weekdays
+2012-11-24,Winter,2012,Nov,No Holiday,Saturday,Clear,0.278333,0.248742,40.4583,0.376871,532,1745,2277,Terlalu kering,weekend
+2012-11-25,Winter,2012,Nov,No Holiday,Sunday,Clear,0.245833,0.257583,46.8333,0.1505,309,2115,2424,Ideal,weekend
+2012-11-26,Winter,2012,Nov,No Holiday,Monday,Clear,0.313333,0.339004,53.541700000000006,0.04665,337,4750,5087,Ideal,weekdays
+2012-11-27,Winter,2012,Nov,No Holiday,Tuesday,Misty,0.291667,0.281558,78.6667,0.237562,123,3836,3959,Terlalu Lembab,weekdays
+2012-11-28,Winter,2012,Nov,No Holiday,Wednesday,Clear,0.296667,0.289762,50.625,0.210821,198,5062,5260,Ideal,weekdays
+2012-11-29,Winter,2012,Nov,No Holiday,Thursday,Clear,0.28087,0.298422,55.565200000000004,0.115522,243,5080,5323,Ideal,weekdays
+2012-11-30,Winter,2012,Nov,No Holiday,Friday,Clear,0.298333,0.323867,64.95830000000001,0.0584708,362,5306,5668,Ideal,weekdays
+2012-12-01,Winter,2012,Dec,No Holiday,Saturday,Misty,0.298333,0.316904,80.6667,0.0597042,951,4240,5191,Terlalu Lembab,weekend
+2012-12-02,Winter,2012,Dec,No Holiday,Sunday,Misty,0.3475,0.359208,82.3333,0.124379,892,3757,4649,Terlalu Lembab,weekend
+2012-12-03,Winter,2012,Dec,No Holiday,Monday,Clear,0.4525,0.455796,76.75,0.0827208,555,5679,6234,Terlalu Lembab,weekdays
+2012-12-04,Winter,2012,Dec,No Holiday,Tuesday,Clear,0.475833,0.469054,73.375,0.174129,551,6055,6606,Terlalu Lembab,weekdays
+2012-12-05,Winter,2012,Dec,No Holiday,Wednesday,Clear,0.438333,0.428012,48.5,0.324021,331,5398,5729,Ideal,weekdays
+2012-12-06,Winter,2012,Dec,No Holiday,Thursday,Clear,0.255833,0.258204,50.875,0.174754,340,5035,5375,Ideal,weekdays
+2012-12-07,Winter,2012,Dec,No Holiday,Friday,Misty,0.320833,0.321958,76.4167,0.1306,349,4659,5008,Terlalu Lembab,weekdays
+2012-12-08,Winter,2012,Dec,No Holiday,Saturday,Misty,0.381667,0.389508,91.125,0.101379,1153,4429,5582,Terlalu Lembab,weekend
+2012-12-09,Winter,2012,Dec,No Holiday,Sunday,Misty,0.384167,0.390146,90.5417,0.157975,441,2787,3228,Terlalu Lembab,weekend
+2012-12-10,Winter,2012,Dec,No Holiday,Monday,Misty,0.435833,0.435575,92.5,0.190308,329,4841,5170,Terlalu Lembab,weekdays
+2012-12-11,Winter,2012,Dec,No Holiday,Tuesday,Misty,0.353333,0.338363,59.66669999999999,0.296037,282,5219,5501,Ideal,weekdays
+2012-12-12,Winter,2012,Dec,No Holiday,Wednesday,Misty,0.2975,0.297338,53.833299999999994,0.162937,310,5009,5319,Ideal,weekdays
+2012-12-13,Winter,2012,Dec,No Holiday,Thursday,Clear,0.295833,0.294188,48.5833,0.174129,425,5107,5532,Ideal,weekdays
+2012-12-14,Winter,2012,Dec,No Holiday,Friday,Clear,0.281667,0.294192,64.29169999999999,0.131229,429,5182,5611,Ideal,weekdays
+2012-12-15,Winter,2012,Dec,No Holiday,Saturday,Clear,0.324167,0.338383,65.0417,0.10635,767,4280,5047,Terlalu Lembab,weekend
+2012-12-16,Winter,2012,Dec,No Holiday,Sunday,Misty,0.3625,0.369938,83.875,0.100742,538,3248,3786,Terlalu Lembab,weekend
+2012-12-17,Winter,2012,Dec,No Holiday,Monday,Misty,0.393333,0.4015,90.7083,0.0982583,212,4373,4585,Terlalu Lembab,weekdays
+2012-12-18,Winter,2012,Dec,No Holiday,Tuesday,Clear,0.410833,0.409708,66.625,0.221404,433,5124,5557,Terlalu Lembab,weekdays
+2012-12-19,Winter,2012,Dec,No Holiday,Wednesday,Clear,0.3325,0.342162,62.5417,0.184092,333,4934,5267,Ideal,weekdays
+2012-12-20,Winter,2012,Dec,No Holiday,Thursday,Misty,0.33,0.335217,66.79169999999999,0.132463,314,3814,4128,Terlalu Lembab,weekdays
+2012-12-21,Spring,2012,Dec,No Holiday,Friday,Misty,0.326667,0.301767,55.666700000000006,0.374383,221,3402,3623,Ideal,weekdays
+2012-12-22,Spring,2012,Dec,No Holiday,Saturday,Clear,0.265833,0.236113,44.125,0.407346,205,1544,1749,Terlalu kering,weekend
+2012-12-23,Spring,2012,Dec,No Holiday,Sunday,Clear,0.245833,0.259471,51.5417,0.133083,408,1379,1787,Ideal,weekend
+2012-12-24,Spring,2012,Dec,No Holiday,Monday,Misty,0.231304,0.2589,79.1304,0.0772304,174,746,920,Terlalu Lembab,weekdays
+2012-12-25,Spring,2012,Dec,Holiday,Tuesday,Misty,0.291304,0.294465,73.47829999999999,0.168726,440,573,1013,Terlalu Lembab,weekdays
+2012-12-26,Spring,2012,Dec,No Holiday,Wednesday,Light_rainsnow,0.243333,0.220333,82.3333,0.316546,9,432,441,Terlalu Lembab,weekdays
+2012-12-27,Spring,2012,Dec,No Holiday,Thursday,Misty,0.254167,0.226642,65.29169999999999,0.350133,247,1867,2114,Terlalu Lembab,weekdays
+2012-12-28,Spring,2012,Dec,No Holiday,Friday,Misty,0.253333,0.255046,59.0,0.155471,644,2451,3095,Ideal,weekdays
+2012-12-29,Spring,2012,Dec,No Holiday,Saturday,Misty,0.253333,0.2424,75.29169999999999,0.124383,159,1182,1341,Terlalu Lembab,weekend
+2012-12-30,Spring,2012,Dec,No Holiday,Sunday,Clear,0.255833,0.2317,48.3333,0.350754,364,1432,1796,Ideal,weekend
+2012-12-31,Spring,2012,Dec,No Holiday,Monday,Misty,0.215833,0.223487,57.75,0.154846,439,2290,2729,Ideal,weekdays
